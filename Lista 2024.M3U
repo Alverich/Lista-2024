@@ -1,69 +1,71 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MÉXICO HD",MX | Azteca Uno HD
+#EXTM3U
+
+#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno HD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MÉXICO HD",MX | Azteca Uno HD
+#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno HD
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm6yEIn6n81eAhUO3scLrrdqU73rT4CIwN1q5e09COyno
 
-#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MÉXICO HD",MX | Azteca Uno Op2 HD
+#EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno Op2 HD
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm_BnWA2lgR8v-roVQHWYW1PRaaDJjMb-saRSUrBigsRM
 
-#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MÉXICO HD",MX | Las Estrellas 2 HD
+#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Las Estrellas 2 HD
 http://38.41.8.1:8000/play/a02w
 
-#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas +1" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MÉXICO HD",MX | Las Estrellas -1 
+#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas +1" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Las Estrellas -1 
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas +2" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MÉXICO HD",MX | Las Estrellas -2 HD 
+#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas +2" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Las Estrellas -2 HD 
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx HD" tvg-name="HD | Las Estrellas Latin America" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MÉXICO HD",MX | Las Estrellas Latin America HD
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx HD" tvg-name="HD | Las Estrellas Latin America" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Las Estrellas Latin America HD
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MÉXICO HD",MX | Canal De Las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal De Las Estrellas
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm6yEIn6n81eAhUO3scLrrdoKG2foPQ_T6Bdk5OI6c5YY
 
-#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas" tvg-logo="https://cdn.imagentv.com/resources/en-vivo.jpg" group-title="MÉXICO HD",MX | Canal de las estrellas -2
+#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="HD | Las Estrellas" tvg-logo="https://cdn.imagentv.com/resources/en-vivo.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal de las estrellas -2
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm5VUZsfxUDCp-9AramislUnmJo7enGjKs_OUX5HWZoz2
 
-#EXTINF:-1 tvg-id="Imagen TV HD" tvg-name="HD | Imagen TV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MÉXICO HD",MX | Imagen TV HD
+#EXTINF:-1 tvg-id="Imagen TV HD" tvg-name="HD | Imagen TV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Imagen TV HD
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
-#EXTINF:-1 tvg-id="Foro.mx HD" tvg-name="HD | Foro" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="MÉXICO HD",MX | Foro HD
+#EXTINF:-1 tvg-id="Foro.mx HD" tvg-name="HD | Foro" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Foro HD
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="HD | Canal 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="MÉXICO HD",MX | Canal 5 HD
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="HD | Canal 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 5 HD
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm-pkOPrrgDVDGLUZ_CZiB0Kz73iZUjUjSIRIlgcndCUA
 
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="HD | Canal 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="MÉXICO HD",MX | Canal 5 * HD
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="HD | Canal 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 5 * HD
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm5VUZsfxUDCp-9AramislUmokJmIfT-vWUlHO1LyDCC8
 
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="HD | Canal 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="MÉXICO HD",MX | Canal 5 HD 
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="HD | Canal 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 5 HD 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx HD" tvg-name="HD | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="MÉXICO HD",MX | Azteca 7 HD
+#EXTINF:-1 tvg-id="Azteca7.mx HD" tvg-name="HD | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca 7 HD
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-id="Azteca a más + FHD" tvg-name="FHD | Azteca a más +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO HD",MX | Azteca a más + FHD
+#EXTINF:-1 tvg-id="Azteca a más + FHD" tvg-name="FHD | Azteca a más +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca a más + FHD
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="AztecaInternacional.mx HD" tvg-name="HD | Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="MÉXICO HD",MX | Azteca Internacional HD
+#EXTINF:-1 tvg-id="AztecaInternacional.mx HD" tvg-name="HD | Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Internacional HD
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="El NU9VE HD" tvg-name="HD | El NU9VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NU9VE_2018.svg/1280px-NU9VE_2018.svg.png" group-title="MÉXICO HD",MX | El NU9VE HD
+#EXTINF:-1 tvg-id="El NU9VE HD" tvg-name="HD | El NU9VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NU9VE_2018.svg/1280px-NU9VE_2018.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | El NU9VE HD
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us FHD" tvg-name="FHD | La Rosa de Guadalupe" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="MÉXICO HD",MX | La Rosa de Guadalupe FHD 
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us FHD" tvg-name="FHD | La Rosa de Guadalupe" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | La Rosa de Guadalupe FHD 
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ADN40.mx FHD" tvg-name="FHD | ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MÉXICO HD",MX | ADN 40 FHD
+#EXTINF:-1 tvg-id="ADN40.mx FHD" tvg-name="FHD | ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | ADN 40 FHD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-name="HD | AMX Noticias" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2024/01/19125735/logofooter-e1705690894703.png" group-title="NOTICIAS HD",MX | AMX Noticias HD
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Once México.mx HD" tvg-name="HD | Once México" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Once_M%C3%A9xico_2002.png/revision/latest?cb=20210726214443&path-prefix=es" group-title="MÉXICO HD",MX | Once México HD
+#EXTINF:-1 tvg-id="Once México.mx HD" tvg-name="HD | Once México" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Once_M%C3%A9xico_2002.png/revision/latest?cb=20210726214443&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Once México HD
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="HD | Estrella Games" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="ENTRETENIMIENTO HD",MX | Estrella Games HD
@@ -72,13 +74,13 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="HD | Estrella TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="ENTRETENIMIENTO HD",MX | Estrella TV HD
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal22.mx"  tvg-name="FHD | Canal 22.1" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canal_22_logo.jpg" group-title="MÉXICO HD",MX | Canal 22.1 FHD
+#EXTINF:-1 tvg-id="Canal22.mx"  tvg-name="FHD | Canal 22.1" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canal_22_logo.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 22.1 FHD
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="Canal22.mx" tvg-name="FHD | Canal 22.2" tvg-logo="https://manualdeimagen.canal22.org.mx/img/mx_color_btn.jpg" group-title="MÉXICO HD",MX | Canal 22.2 FHD
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="Canal26.mx" tvg-name="FHD | Canal 26" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="MÉXICO HD",MX | Canal 26 FHD
+#EXTINF:-1 tvg-id="Canal26.mx" tvg-name="FHD | Canal 26" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 26 FHD
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="HD | Estrella Games" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/11be3ddab9679c9b12e7ebff129ae37e.webp" group-title="ENTRETENIMIENTO HD",MX | Estrella Games HD
@@ -87,84 +89,83 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us HD" tvg-name="HD | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO HD",MX | Estrella TV HD
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="LA CASA DE LOS FAMOSOS HD",HD | La Casa de los Famosos 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="⭐⭐⭐LA CASA DE LOS FAMOSOS HD⭐⭐⭐",HD | La Casa de los Famosos 1
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTmwK9OsBXZ9P_vObz3YDa042eD57h-rFwaVt9X2JbYSBI
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="LA CASA DE LOS FAMOSOS HD",HD | La Casa de los Famosos 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="⭐⭐⭐LA CASA DE LOS FAMOSOS HD⭐⭐⭐",HD | La Casa de los Famosos 2
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTmwK9OsBXZ9P_vObz3YDa040CYJLkwO1wzchehXyFwRTY
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="LA CASA DE LOS FAMOSOS HD",HD | La Casa de los Famosos 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="⭐⭐⭐LA CASA DE LOS FAMOSOS HD⭐⭐⭐",HD | La Casa de los Famosos 3
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTmwK9OsBXZ9P_vObz3YDa041upaykEEJaoW091j0ZnypO
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="LA CASA DE LOS FAMOSOS HD",HD | La Casa de los Famosos 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="⭐⭐⭐LA CASA DE LOS FAMOSOS HD⭐⭐⭐",HD | La Casa de los Famosos 4
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTmwK9OsBXZ9P_vObz3YDa041QM9kM0KjVsdB8OMYJOkVY
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="LA CASA DE LOS FAMOSOS HD",HD | La Casa de los Famosos 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.infobae.com/new-resizer/gNYGuThyYntU3OlGetSeDWH5HrA=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZUMUFDXGWRFZHLGTDL2GPJUKEE.jpg" group-title="⭐⭐⭐LA CASA DE LOS FAMOSOS HD⭐⭐⭐",HD | La Casa de los Famosos 5
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTmwK9OsBXZ9P_vObz3YDa041UYwV0mE9vWKJp4ArOYM0n
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="MUNDO Y CULTURA HD",HD | Discovery HD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery HD
 http://odenfull.co:2086/Nelson2023/Nelson1234/104265
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="MUNDO Y CULTURA HD",MX | Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | Discovery Channel
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm8WQAbDTPyFZtnrIqP0KAcEr_Xsb5ckHoj3okhF_rxIR
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="MUNDO Y CULTURA HD",HD | Discovery Channel SD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery Channel SD
 http://38.41.8.1:8000/play/a07l
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="MUNDO Y CULTURA HD",HD | Discovery Channel SD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery Channel SD
 https://acortar.link/8T9Dt4
 
-#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="SD | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="MUNDO Y CULTURA HD",SD | Discovery Channel SD
+#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="SD | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",SD | Discovery Channel SD
 http://138.59.177.34:8000/play/a054/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery H&H HD" tvg-name="HD | Discovery H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-1.png" group-title="MUNDO Y CULTURA HD",HD | Discovery Home & Health
+#EXTINF:-1 tvg-id="Discovery H&H HD" tvg-name="HD | Discovery H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-1.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery Home & Health
 http://138.59.177.34:8000/play/a06f/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery H&H HD" tvg-name="HD | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="MUNDO Y CULTURA HD",HD | Discovery H&H 
+#EXTINF:-1 tvg-id="Discovery H&H HD" tvg-name="HD | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery H&H 
 http://38.41.8.1:8000/play/a017
 
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="HD | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="MUNDO Y CULTURA HD",HD | Discovery Theater HD
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="HD | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery Theater HD
 http://38.41.8.1:8000/play/a018
 
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="HD | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="MUNDO Y CULTURA HD",MX | Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="HD | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | Discovery Theater
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm8WQAbDTPyFZtnrIqP0KAcFiu8wkT9dVk8qc1cBl70cJ
 
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="HD | Discovery World" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="MUNDO Y CULTURA HD",MX | Discovery World
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="HD | Discovery World" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190616_125035.png?Sh2c6.H4ophoFPCVogkr7oeHbgMMck.Y&itok=2YGpTwKI" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | Discovery World
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm8WQAbDTPyFZtnrIqP0KAcGiIbkBSgVtrVctU--C-gNH
 
-#EXTINF:-1 tvg-id="NatGeo Channel HD" tvg-name="HD | NatGeo Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="MUNDO Y CULTURA HD",MX | NatGeo Channel
+#EXTINF:-1 tvg-id="NatGeo Channel HD" tvg-name="HD | NatGeo Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | NatGeo Channel
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm9Mth60hc470aLN81trWqEoRmu3BLGQefmIco3vb7Ybe
 
-#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HD | HGTV" tvg-logo="https://foyr.com/learn/wp-content/uploads/2021/11/HGTV-personalities-in-interior-design.jpg" group-title="MUNDO Y CULTURA HD",MX | HGTV HD
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HD | HGTV" tvg-logo="https://foyr.com/learn/wp-content/uploads/2021/11/HGTV-personalities-in-interior-design.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | HGTV HD
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm5VUZsfxUDCp-9AramislUk-YlvqPXm5kyMNjFQyFZ3t
 
-#EXTINF:-1 tvg-id="Animal Planet HD"  tvg-name="HD | Animal Planet" tvg-logo="http://offshore.lat:25461/images/5e5eab8ff59dbc806a151fe6255b76fc.png" group-title="MUNDO Y CULTURA HD",HD | Animal Planet 
+#EXTINF:-1 tvg-id="Animal Planet HD"  tvg-name="HD | Animal Planet" tvg-logo="http://offshore.lat:25461/images/5e5eab8ff59dbc806a151fe6255b76fc.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Animal Planet 
 http://38.41.8.1:8000/play/a023
 
-#EXTINF:-1 tvg-id="Animal Planet HD"  tvg-name="HD | Animal Planet" tvg-logo="http://offshore.lat:25461/images/5e5eab8ff59dbc806a151fe6255b76fc.png" group-title="MUNDO Y CULTURA HD",MX | Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet HD"  tvg-name="HD | Animal Planet" tvg-logo="http://offshore.lat:25461/images/5e5eab8ff59dbc806a151fe6255b76fc.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | Animal Planet
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm8WQAbDTPyFZtnrIqP0KAcHWStCfdSdbbVq7MCcSm-iE
 
-#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="SD | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA HD",SD | Discovery Turbo SD
+#EXTINF:-1 tvg-id="Discovery Turbo SD" tvg-name="SD | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",SD | Discovery Turbo SD
 http://38.41.8.1:8000/play/a068
 
-#EXTINF:-1 tvg-id="Discovery ID HD" tvg-name="HD | Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="MUNDO Y CULTURA HD",HD | Discovery ID
+#EXTINF:-1 tvg-id="Discovery ID HD" tvg-name="HD | Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery ID
 http://38.41.8.1:8000/play/a071
 
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="HD | Discovery Science" tvg-logo="https://banner2.cleanpng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg" group-title="MUNDO Y CULTURA HD",MX | Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="HD | Discovery Science" tvg-logo="https://banner2.cleanpng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | Discovery Science
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm9Mth60hc470aLN81trWqEoPapj_Nb-Ob-erOYod8ifZ
 
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="HD | Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1200px-Discovery_Civilization_logo.svg.png" group-title="MUNDO Y CULTURA HD",MX | Discovery Civilization
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="HD | Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1200px-Discovery_Civilization_logo.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | Discovery Civilization
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm9Mth60hc470aLN81trWqErVbcqN3rv88KD9PFEvZTDQ
 
-#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HD | History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="MUNDO Y CULTURA HD",HD | History Channel 
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HD | History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | History Channel 
 http://38.41.8.1:8000/play/a005
 
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HD | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="MUNDO Y CULTURA HD",HD | History 2 
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HD | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | History 2 
 http://38.41.8.1:8000/play/a030
 
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HD | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="MUNDO Y CULTURA HD",MX | History 2
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HD | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX | History 2
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm_BnWA2lgR8v-roVQHWYW1OPYXk3DejM5UMXP_wkSatv
-
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="HD | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ESPN
 http://38.41.8.1:8000/play/a01i
 
