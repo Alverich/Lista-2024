@@ -77,7 +77,7 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22.mx"  tvg-name="FHD | Canal 22.1" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canal_22_logo.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 22.1 FHD
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="Canal22.mx" tvg-name="FHD | Canal 22.2" tvg-logo="https://manualdeimagen.canal22.org.mx/img/mx_color_btn.jpg" group-title="MÉXICO HD",MX | Canal 22.2 FHD
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-name="FHD | Canal 22.2" tvg-logo="https://manualdeimagen.canal22.org.mx/img/mx_color_btn.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 22.2 FHD
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="Canal26.mx" tvg-name="FHD | Canal 26" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Canal 26 FHD
@@ -914,843 +914,593 @@ http://live.redtraffic.xyz/interracial.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 
 
+
 #EXTINF:-1,:::::: Peliculas Variadas ::::::
 
-#EXTINF:-1 tvg-id="" tvg-name="The Estate (2020)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uJmFCDJXYZHL5ArCel1xtQAqb8z.jpg" group-title="COMEDIA",The Estate (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Estate%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Chacun chez soi (2021)CASTELLAN0" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8Jz6A8Nu8uJxeBXdynGfrbs8cNA.jpg" group-title="COMEDIA",Chacun chez soi (2021)CASTELLAN0 
+#EXTINF:-1 tvg-id="" tvg-name="Chacun chez soi (2021)CASTELLAN0" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8Jz6A8Nu8uJxeBXdynGfrbs8cNA.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Chacun chez soi (2021)CASTELLAN0 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Chacun%20chez%20soi%20(2021)CASTELLAN0.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Este amor es de otro planeta (2019)CASTELLANO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1bdjpX9l2tueek5gUOm7LntLXMX.jpg" group-title="ROMANCE",Este amor es de otro planeta (2019)CASTELLANO 
+#EXTINF:-1 tvg-id="" tvg-name="Este amor es de otro planeta (2019)CASTELLANO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1bdjpX9l2tueek5gUOm7LntLXMX.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",Este amor es de otro planeta (2019)CASTELLANO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Este%20amor%20es%20de%20otro%20planeta%20(2019)CASTELLANO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Adventures of a Mathematician (2020)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yVkqDVsoBgLwHNwx8L9BS5aD6GS.jpg" group-title="DRAMA", Adventures of a Mathematician (2020)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Adventures of a Mathematician (2020)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yVkqDVsoBgLwHNwx8L9BS5aD6GS.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐", Adventures of a Mathematician (2020)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Adventures%20of%20a%20Mathematician%20(2020)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Alicia en el país de las maravillas (1951)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nqdSBYNKuMrNVQapd4Cgl67wBZJ.jpg" group-title="ANIMACIÓN",Alicia en el país de las maravillas (1951)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Alicia en el país de las maravillas (1951)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nqdSBYNKuMrNVQapd4Cgl67wBZJ.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Alicia en el país de las maravillas (1951)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Alicia%20en%20el%20pa%c3%ads%20de%20las%20maravillas%20(1951)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Hércules LATINO 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eNom46ZenLFZ0DhRzwUaN13RfcN.jpg" group-title="ANIMACIÓN",Hércules LATINO 1997 
+#EXTINF:-1 tvg-id="" tvg-name="Hércules LATINO 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eNom46ZenLFZ0DhRzwUaN13RfcN.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Hércules LATINO 1997 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/H%c3%a9rcules%20LATINO%201997.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="John Carter.lat" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lRvQP1wLqyPJEgBjjn35bInO7it.jpg" group-title="CIENCIA FICCIÓN",John Carter.lat 
+#EXTINF:-1 tvg-id="" tvg-name="John Carter.lat" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lRvQP1wLqyPJEgBjjn35bInO7it.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",John Carter.lat 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/John%20Carter.lat.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Oz the Great and Powerful LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/piHFgW1yotlHrewwdlQJG7gRRLu.jpg" group-title="FANTASÍA",Oz the Great and Powerful LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Oz the Great and Powerful LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/piHFgW1yotlHrewwdlQJG7gRRLu.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",Oz the Great and Powerful LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Oz%20the%20Great%20and%20Powerful%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Steele Wool SUB 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sQ2LYT4DAJVmxRh3UYY0uH9mD0z.jpg" group-title="SUSPENSO",Steele Wool SUB 2019 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Steele%20Wool%20SUB%202019.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Wrathful of Souls (2020)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d4i7eJDNE88Ktv07kTCnZMgSuvH.jpg" group-title="TERROR",Wrathful of Souls (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Aiyai%20Wrathful%20Soul%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Is King (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2u1cyQgBpWWypISdbUDCu2hasGV.jpg" group-title="MÚSICA",Black Is King (2020) 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/BLACK%20IS%20KING%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Celebration of the Music from Coco (2020)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8K4iDnODk3lXEIi6Ou9DfRz4Z48.jpg" group-title="MÚSICA",A Celebration of the Music from Coco (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/A%20Celebration%20of%20the%20Music%20from%20Coco%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Basil, el ratón superdetective (1986) LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/osNTFX6TRPCXbujQJWyXc912DgE.jpg" group-title="ANIMACIÓN",Basil, el ratón superdetective (1986) LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Basil, el ratón superdetective (1986) LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/osNTFX6TRPCXbujQJWyXc912DgE.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Basil, el ratón superdetective (1986) LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Basil,%20el%20rat%c3%b3n%20superdetective%20(1986)%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Between Waves (2020)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/liBz6LyxUBChqLCrP7Bp86rq33V.jpg" group-title="DRAMA",Between Waves (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Between%20Waves%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Destello bravío (2021)CASTELLANO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fW5cXth27IA36Ftd3qpopvGpejj.jpg" group-title="DRAMA",Destello bravío (2021)CASTELLANO 
+#EXTINF:-1 tvg-id="" tvg-name="Destello bravío (2021)CASTELLANO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fW5cXth27IA36Ftd3qpopvGpejj.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Destello bravío (2021)CASTELLANO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Destello%20brav%c3%ado%20(2021)CASTELLANO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Cámara del arrecife de Dory (2020)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fZwbK7k1ABphRk9p22uwI8cQQnB.jpg" group-title="ANIMACIÓN",Cámara del arrecife de Dory (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dorys%20Reef%20Cam%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Holy Lands (2017)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qcRIVBS5pGDV2ZeKJZtVDQsgCxm.jpg" group-title="DRAMA",Holy Lands (2017)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Holy Lands (2017)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qcRIVBS5pGDV2ZeKJZtVDQsgCxm.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Holy Lands (2017)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Holy%20Lands%20(2017)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="INVINCIBLE 2006 LATINO" tvg-logo="https://image.tmdb.org/t/p/w185/m9pEtIV8qtARybEQeUImvFiHGzV.jpg" group-title="DRAMA",INVINCIBLE 2006 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="INVINCIBLE 2006 LATINO" tvg-logo="https://image.tmdb.org/t/p/w185/m9pEtIV8qtARybEQeUImvFiHGzV.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",INVINCIBLE 2006 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/INVINCIBLE%202006%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Bella Durmiente (1959)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" group-title="ANIMACIÓN",La Bella Durmiente (1959)LATINO.
+#EXTINF:-1 tvg-id="" tvg-name="La Bella Durmiente (1959)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Bella Durmiente (1959)LATINO.
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20Bella%20Durmiente%20(1959)LATINO.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Bella Y La Bestia 2 Una Navidad Encantada LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="ANIMACIÓN",La Bella Y La Bestia 2 Una Navidad Encantada LATINO.
+#EXTINF:-1 tvg-id="" tvg-name="La Bella Y La Bestia 2 Una Navidad Encantada LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Bella Y La Bestia 2 Una Navidad Encantada LATINO.
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20Bella%20Y%20La%20Bestia%202%20Una%20Navidad%20Encantada%20LATINO.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La isla de las mentiras (2021)CASTELLAN0" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9UQcLwX1i9teXkuSBfX6E3TAWYF.jpg" group-title="DRAMA",La isla de las mentiras (2021)CASTELLAN0 
+#EXTINF:-1 tvg-id="" tvg-name="La isla de las mentiras (2021)CASTELLAN0" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9UQcLwX1i9teXkuSBfX6E3TAWYF.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",La isla de las mentiras (2021)CASTELLAN0 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20isla%20de%20las%20mentiras%20(2021)CASTELLAN0.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Amadrinadas LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m0XU35sApYXtMH7RXHNsY84M4mV.jpg" group-title="FAMILIAR",Amadrinadas LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Amadrinadas LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m0XU35sApYXtMH7RXHNsY84M4mV.jpg" group-title="⭐⭐PELICULAS FAMILIAR⭐⭐",Amadrinadas LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Amadrinadas/Amadrinadas%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Amadrinadas SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m0XU35sApYXtMH7RXHNsY84M4mV.jpg" group-title="FAMILIAR",Amadrinadas SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Amadrinadas/Amadrinadas%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Winnie Pooh latino 1977" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5lTCHEQ1iYEEJ7wRpVCSQBJICae.jpg" group-title="ANIMACIÓN",Las aventuras de Winnie Pooh latino 1977.
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Winnie Pooh latino 1977" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5lTCHEQ1iYEEJ7wRpVCSQBJICae.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Las aventuras de Winnie Pooh latino 1977.
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Las%20aventuras%20de%20Winnie%20Pooh%20latino%201977.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Maggie Simpson en El Despertar De La Siesta SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qQdwRH165iQPiTE2tQ0lhOcRymi.jpg" group-title="ANIMACIÓN",Maggie Simpson en El Despertar De La Siesta SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Maggie%20Simpson%20en%20El%20Despertar%20De%20La%20Siesta%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Oliver y su pandilla LATINO 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pRKG2hyw5OKUX4bTRqJwGhaoQZ7.jpg" group-title="ANIMACIÓN",Oliver y su pandilla LATINO 2018
+#EXTINF:-1 tvg-id="" tvg-name="Oliver y su pandilla LATINO 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pRKG2hyw5OKUX4bTRqJwGhaoQZ7.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Oliver y su pandilla LATINO 2018
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Oliver%20y%20su%20pandilla%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Savage Genesis SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rFPNDdWdkZXQiBmH07tnzUykb3B.jpg" group-title="DRAMA",Savage Genesis SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Savage%20Genesis%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Secretariat LATINO 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg" group-title="DRAMA",Secretariat LATINO 2010 
+#EXTINF:-1 tvg-id="" tvg-name="Secretariat LATINO 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Secretariat LATINO 2010 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Secretariat%20LATINO%202010.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Stand Still SUB 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Aj2TLnFCFAxspu5XrVd0TjgNNQO.jpg" group-title="DRAMA",Stand Still SUB 2020 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Stand%20Still%20SUB%202020.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Face SUB 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yqNVHL6A1ZVCmQJxmS89PuRpcmX.jpg" group-title="DRAMA",Sweet Face SUB 2020 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Sweet%20Face%20SUB%202020.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Tainted Rain SUB 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/llcvQSohNASPNNUO58U4ujkuL0w.jpg" group-title="DRAMA",Tainted Rain SUB 2020 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Tainted%20Rain%20SUB%202020.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Greatest Game Ever Played LATINO 2005" tvg-logo="https://image.tmdb.org/t/p/w185/kh4vd6wKa6j9xVFzxhQrsT0p2YN.jpg" group-title="DRAMA",The Greatest Game Ever Played LATINO 2005 
+#EXTINF:-1 tvg-id="" tvg-name="The Greatest Game Ever Played LATINO 2005" tvg-logo="https://image.tmdb.org/t/p/w185/kh4vd6wKa6j9xVFzxhQrsT0p2YN.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",The Greatest Game Ever Played LATINO 2005 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Greatest%20Game%20Ever%20Played%20LATINO%202005.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Killing of Kenneth Chamberlain (2020)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kbPFlxvYaVL6VTJPFsmVP853gUV.jpg" group-title="DRAMA",The Killing of Kenneth Chamberlain (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Killing%20of%20Kenneth%20Chamberlain%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The University of Las Colinas SUB 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2hOtUTk0EaR6qScmdXfJOnzNkRP.jpg" group-title="COMEDIA",The University of Las Colinas SUB 2020 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20University%20of%20Las%20Colinas%20SUB%202020.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Tis the Season SUB 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uaUDUMk1md2mOdAVKtLjxOgbnPu.jpg" group-title="MÚSICA",Tis the Season SUB 2020 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Tis%20the%20Season%20SUB%202020.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Trail to the Reservoir 2021 SUB tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/38cvoxyPcqOrJGtIPAl4d0N9UiS.jpg" group-title="ACCIÓN",Trail to the Reservoir 2021 SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Trail%20to%20the%20Reservoir%202021%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Tras los pasos del elefante SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vczGBOJjVDc463Bnsxtm1AHlMU8.jpg" group-title="DOCUMENTAL",Tras los pasos del elefante SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Tras%20los%20pasos%20del%20elefante%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Typo (2021)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rmsOPmG3EztUII2GET8ERf5nyNj.jpg" group-title="DRAMA",Typo (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Typo%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Érase una vez un muñeco de nieve LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yckfWcCTKEplBCilRdE4d43xowl.jpg" group-title="ANIMACIÓN",Érase una vez un muñeco de nieve LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez un muñeco de nieve LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yckfWcCTKEplBCilRdE4d43xowl.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Érase una vez un muñeco de nieve LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/%c3%89rase%20una%20vez%20un%20mu%c3%b1eco%20de%20nieve/%c3%89rase%20una%20vez%20un%20mu%c3%b1eco%20de%20nieve%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Érase una vez un muñeco de nieve SUB",Érase una vez un muñeco de nieve SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yckfWcCTKEplBCilRdE4d43xowl.jpg" group-title="ANIMACIÓN",Érase una vez un muñeco de nieve SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/%c3%89rase%20una%20vez%20un%20mu%c3%b1eco%20de%20nieve/%c3%89rase%20una%20vez%20un%20mu%c3%b1eco%20de%20nieve%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="22 contra la Tierra LATINO (2021) tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2ytgYjDokdpkdRhbgdCVeWC7vJj.jpg" group-title="ANIMACIÓN",22 contra la Tierra LATINO (2021) 
+#EXTINF:-1 tvg-id="" tvg-name="22 contra la Tierra LATINO (2021) tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2ytgYjDokdpkdRhbgdCVeWC7vJj.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",22 contra la Tierra LATINO (2021) 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/22%20contra%20la%20Tierra)%20(2021/22%20contra%20la%20Tierra)%20(2021LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="22 contra la Tierra SUB (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2ytgYjDokdpkdRhbgdCVeWC7vJj.jpg" group-title="ANIMACIÓN",22 contra la Tierra SUB (2021) 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/22%20contra%20la%20Tierra)%20(2021/22%20contra%20la%20Tierra)%20(2021SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A World Without (Altares sin amor) (2021) LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rtNzUyJ4lokLjhEDVML6TNerT82.jpg" group-title="DRAMA",A World Without (Altares sin amor) (2021)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="A World Without (Altares sin amor) (2021) LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rtNzUyJ4lokLjhEDVML6TNerT82.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",A World Without (Altares sin amor) (2021)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/A%20World%20Without%20(Altares%20sin%20amor)%20(2021)/A%20World%20Without%20(Altares%20sin%20amor)%20(2021)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="A World Without (Altares sin amor) (2021) SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rtNzUyJ4lokLjhEDVML6TNerT82.jpg" group-title="DRAMA",A World Without (Altares sin amor) (2021) SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/A%20World%20Without%20(Altares%20sin%20amor)%20(2021)/A%20World%20Without%20(Altares%20sin%20amor)%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="American Eid LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xrWefFCMuYWSuL7B4wPFw262J2Y.jpg" group-title="DRAMA",American Eid LATINO 2021 
+#EXTINF:-1 tvg-id="" tvg-name="American Eid LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xrWefFCMuYWSuL7B4wPFw262J2Y.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",American Eid LATINO 2021 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/American%20Eid/American%20Eid%20LATINO%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="American Eid SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xrWefFCMuYWSuL7B4wPFw262J2Y.jpg" group-title="DRAMA",American Eid SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/American%20Eid/American%20Eid%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bears (Osos) (2014)LATINO" tvg-logo="https://gnula.nu/wp-content/uploads/2014/08/bears_poster_usa.jpg" group-title="DOCUMENTAL",Bears (Osos) (2014)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Bears (Osos) (2014)LATINO" tvg-logo="https://gnula.nu/wp-content/uploads/2014/08/bears_poster_usa.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",Bears (Osos) (2014)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Bears%20(Osos)%20(2014)/Bears%20(Osos)%20(2014)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Bears (Osos) (2014)SUB" tvg-logo="https://gnula.nu/wp-content/uploads/2014/08/bears_poster_usa.jpg" group-title="DOCUMENTAL",Bears (Osos) (2014)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Bears%20(Osos)%20(2014)/Bears%20(Osos)%20(2014)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Beauty LATINO" tvg-logo="https://www17.pelisplushd.to/poster/belleza-negra.jpg" group-title="DRAMA",Black Beauty LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Black Beauty LATINO" tvg-logo="https://www17.pelisplushd.to/poster/belleza-negra.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Black Beauty LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Black%20Beauty/Black%20Beauty%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Black Beauty SUB" tvg-logo="https://www17.pelisplushd.to/poster/belleza-negra.jpg" group-title="DRAMA",Black Beauty SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Black%20Beauty/Black%20Beauty%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y los siete enanitos (1937)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" group-title="ANIMACIÓN",Blancanieves y los siete enanitos (1937)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y los siete enanitos (1937)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Blancanieves y los siete enanitos (1937)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Blancanieves%20y%20los%20siete%20enanitos%20(1937)/Blancanieves%20y%20los%20siete%20enanitos%20(1937)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves y los siete enanitos (1937)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" group-title="ANIMACIÓN",Blancanieves y los siete enanitos (1937)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Blancanieves%20y%20los%20siete%20enanitos%20(1937)/Blancanieves%20y%20los%20siete%20enanitos%20(1937)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Calle de la Humanidad 8 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wpz8Ls7rI5nxMJ2UhQfTM42xvCo.jpg" group-title="COMEDIA",Calle de la Humanidad, 8 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Calle de la Humanidad 8 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wpz8Ls7rI5nxMJ2UhQfTM42xvCo.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Calle de la Humanidad, 8 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Calle%20de%20la%20Humanidad,%208/Calle%20de%20la%20Humanidad,%208%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Calle de la Humanidad 8 SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wpz8Ls7rI5nxMJ2UhQfTM42xvCo.jpg" group-title="COMEDIA",Calle de la Humanidad, 8 SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Calle%20de%20la%20Humanidad,%208/Calle%20de%20la%20Humanidad,%208%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Chimpanzee (Chimpancés) (2012)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zmqWHkCXHM9n28zqL2LrPmJ5a7W.jpg" group-title="DOCUMENTAL",Chimpanzee (Chimpancés) (2012)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Chimpanzee (Chimpancés) (2012)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zmqWHkCXHM9n28zqL2LrPmJ5a7W.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",Chimpanzee (Chimpancés) (2012)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Chimpanzee%20(Chimpanc%c3%a9s)%20(2012)/Chimpanzee%20(Chimpanc%c3%a9s)%20(2012)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Chimpanzee (Chimpancés) (2012)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zmqWHkCXHM9n28zqL2LrPmJ5a7W.jpg" group-title="DOCUMENTAL",Chimpanzee (Chimpancés) (2012)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Chimpanzee%20(Chimpanc%c3%a9s)%20(2012)/Chimpanzee%20(Chimpanc%c3%a9s)%20(2012)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" group-title="FANTASÍA",Christopher Robin LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",Christopher Robin LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Christopher%20Robin%202018/Christopher%20Robin%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" group-title="FANTASÍA",Christopher Robin SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Christopher%20Robin%202018/Christopher%20Robin%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Hasta pronto Christopher Robin LATINO 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9O2LoirCUU6Cepph2xvDJ7iaTcK.jpg" group-title="FAMILIAR",Hasta pronto, Christopher Robin LATINO 2017 
+#EXTINF:-1 tvg-id="" tvg-name="Hasta pronto Christopher Robin LATINO 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9O2LoirCUU6Cepph2xvDJ7iaTcK.jpg" group-title="⭐⭐PELICULAS FAMILIAR⭐⭐",Hasta pronto, Christopher Robin LATINO 2017 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Christopher%20Robin%202018/Hasta%20pronto,%20Christopher%20Robin%20LATINO%202017.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Hasta pronto Christopher Robin SUB 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9O2LoirCUU6Cepph2xvDJ7iaTcK.jpg" group-title="FAMILIAR",Hasta pronto, Christopher Robin SUB 2017 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Christopher%20Robin%202018/Hasta%20pronto,%20Christopher%20Robin%20SUB%202017.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Clouds LATINO" tvg-logo="https://pelisimg.online/cover/clouds-1603485906.jpg" group-title="DRAMA",Clouds LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Clouds LATINO" tvg-logo="https://pelisimg.online/cover/clouds-1603485906.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Clouds LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Clouds/Clouds%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Clouds SUB" tvg-logo="https://pelisimg.online/cover/clouds-1603485906.jpg" group-title="DRAMA",Clouds SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Clouds/Clouds%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Dinner Is Served LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rqE2EBeSkJS2n107jvTTf6T6Hz3.jpg" group-title="DRAMA",Dinner Is Served LATINO 2021 
+#EXTINF:-1 tvg-id="" tvg-name="Dinner Is Served LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rqE2EBeSkJS2n107jvTTf6T6Hz3.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Dinner Is Served LATINO 2021 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dinner%20Is%20Served/Dinner%20Is%20Served%20LATINO%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Dinner Is Served SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rqE2EBeSkJS2n107jvTTf6T6Hz3.jpg" group-title="DRAMA",Dinner Is Served SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dinner%20Is%20Served/Dinner%20Is%20Served%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Diving with Dolphins (2020) SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fcYz4zHYvZvMdb50gvryYYOcUGY.jpg" group-title="DOCUMENTAL",Diving with Dolphins (2020) SUB 
+#EXTINF:-1 tvg-id="" tvg-name="Diving with Dolphins (2020) SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fcYz4zHYvZvMdb50gvryYYOcUGY.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",Diving with Dolphins (2020) SUB 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Diving%20with%20Dolphins%20(2020)/Diving%20with%20Dolphins%20(2020)%20SUB.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Dumbo (1941)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xFoXi2iVwyOtJr1PD5nDVSkpkVo.jpg" group-title="ANIMACIÓN",Dumbo (1941)
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo (1941)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xFoXi2iVwyOtJr1PD5nDVSkpkVo.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Dumbo (1941)
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dumbo/6b1cb9572a9f7f8fb377f177188fa7dc.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Dumbo 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tLbijKcpZfFRgKTNs1HBWFrEGqp.jpg" group-title="FAMILIAR",Dumbo 2019 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tLbijKcpZfFRgKTNs1HBWFrEGqp.jpg" group-title="⭐⭐PELICULAS FAMILIAR⭐⭐",Dumbo 2019 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dumbo/Dumbo%202019%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Dumbo 2019 SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tLbijKcpZfFRgKTNs1HBWFrEGqp.jpg" group-title="FAMILIAR",Dumbo 2019 SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dumbo/Dumbo%202019%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Dune LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg" group-title="CIENCIA FICCIÓN",Dune LATINO 2021 
+#EXTINF:-1 tvg-id="" tvg-name="Dune LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",Dune LATINO 2021 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dune/Dune%20LATINO%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Dune SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg" group-title="CIENCIA FICCIÓN",Dune SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Dune/Dune%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="El Cascanueces y los Cuatro Reinos LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eYDNJvFvjgVIklbf76St7ldnsaX.jpg" group-title="FANTASÍA",El Cascanueces y los Cuatro Reinos LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="El Cascanueces y los Cuatro Reinos LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eYDNJvFvjgVIklbf76St7ldnsaX.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",El Cascanueces y los Cuatro Reinos LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20Cascanueces%20y%20los%20Cuatro%20Reinos/El%20Cascanueces%20y%20los%20Cuatro%20Reinos%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El Cascanueces y los Cuatro Reinos SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eYDNJvFvjgVIklbf76St7ldnsaX.jpg" group-title="FANTASÍA",El Cascanueces y los Cuatro Reinos SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20Cascanueces%20y%20los%20Cuatro%20Reinos/El%20Cascanueces%20y%20los%20Cuatro%20Reinos%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="El diario de la princesa (2001)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s4DYhsEnziYlJy91bbxv1ZhTJFG.jpg" group-title="ROMANCE",El diario de la princesa (2001)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="El diario de la princesa (2001)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s4DYhsEnziYlJy91bbxv1ZhTJFG.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",El diario de la princesa (2001)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20diario%20de%20la%20princesa/El%20diario%20de%20la%20princesa%20(2001)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El diario de la princesa (2001)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s4DYhsEnziYlJy91bbxv1ZhTJFG.jpg" group-title="ROMANCE",El diario de la princesa (2001)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20diario%20de%20la%20princesa/El%20diario%20de%20la%20princesa%20(2001)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="El diario de la princesa 2 (2004)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ndsSUCSqwe8nqdTqJXX4aDrsNM0.jpg" group-title="ROMANCE",El diario de la princesa 2 (2004)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="El diario de la princesa 2 (2004)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ndsSUCSqwe8nqdTqJXX4aDrsNM0.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",El diario de la princesa 2 (2004)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20diario%20de%20la%20princesa/El%20diario%20de%20la%20princesa%202%20(2004)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El diario de la princesa 2 (2004)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ndsSUCSqwe8nqdTqJXX4aDrsNM0.jpg" group-title="ROMANCE",El diario de la princesa 2 (2004)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20diario%20de%20la%20princesa/El%20diario%20de%20la%20princesa%202%20(2004)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="El viaje de Arlo LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1WKI6PM79XjK2LVS1B4yoG3wNHw.jpg" group-title="ANIMACIÓN",El viaje de Arlo LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="El viaje de Arlo LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1WKI6PM79XjK2LVS1B4yoG3wNHw.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",El viaje de Arlo LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20viaje%20de%20Arlo/El%20viaje%20de%20Arlo%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El viaje de Arlo SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1WKI6PM79XjK2LVS1B4yoG3wNHw.jpg" group-title="ANIMACIÓN",El viaje de Arlo SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/El%20viaje%20de%20Arlo/El%20viaje%20de%20Arlo%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Goofy 2_ Extremadamente Goofy LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bRQbaTkzxuHcsNy1NK1aRuueFLs.jpg" group-title="ANIMACIÓN",Goofy 2_ Extremadamente Goofy LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Goofy 2_ Extremadamente Goofy LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bRQbaTkzxuHcsNy1NK1aRuueFLs.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Goofy 2_ Extremadamente Goofy LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Goofy/Goofy%202_%20Extremadamente%20Goofy%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Goofy; La película 1995 LATINO" tvg-logo="https://pelisimg.online/cover/goofy-la-pelicula.jpg" group-title="ANIMACIÓN",Goofy; La película 1995 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Goofy; La película 1995 LATINO" tvg-logo="https://pelisimg.online/cover/goofy-la-pelicula.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Goofy; La película 1995 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Goofy/Goofy;%20La%20pel%c3%adcula%201995%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="tvg-id="Growing Fangs LATINO 2021" tvg-logo="https://gnula.nu/wp-content/uploads/2021/06/Launchpad_Growing_Fangs_poster_usa.jpg" group-title="DRAMA",Growing Fangs LATINO 2021 
+#EXTINF:-1 tvg-id="" tvg-name="tvg-id="Growing Fangs LATINO 2021" tvg-logo="https://gnula.nu/wp-content/uploads/2021/06/Launchpad_Growing_Fangs_poster_usa.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Growing Fangs LATINO 2021 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Growing%20Fangs/Growing%20Fangs%20LATINO%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Growing Fangs SUB 2021" tvg-logo="https://gnula.nu/wp-content/uploads/2021/06/Launchpad_Growing_Fangs_poster_usa.jpg" group-title="DRAMA",Growing Fangs SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Growing%20Fangs/Growing%20Fangs%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="High School Musical El Musical El especial de las Fiestas (2020)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Rc4mm0spGZ0wDGU2mCYV6wPZ7a.jpg" group-title="MÚSICA",High School Musical El Musical El especial de las Fiestas (2020)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical El Musical El especial de las Fiestas (2020)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Rc4mm0spGZ0wDGU2mCYV6wPZ7a.jpg" group-title="⭐⭐PELICULAS MÚSICA⭐⭐",High School Musical El Musical El especial de las Fiestas (2020)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/High%20School%20Musical%20El%20Musical%20El%20especial%20de%20las%20Fiestas%20(2020)/High%20School%20Musical%20El%20Musical%20El%20especial%20de%20las%20Fiestas%20(2020)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="High School Musical El Musical El especial de las Fiestas (2020)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Rc4mm0spGZ0wDGU2mCYV6wPZ7a.jpg" group-title="MÚSICA",High School Musical El Musical El especial de las Fiestas (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/High%20School%20Musical%20El%20Musical%20El%20especial%20de%20las%20Fiestas%20(2020)/High%20School%20Musical%20El%20Musical%20El%20especial%20de%20las%20Fiestas%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Jim y el Durazno Gigante LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mArShSmLgt8YQQEyX2V5qLVSoGR.jpg" group-title="ANIMACIÓN",Jim y el Durazno Gigante LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Jim y el Durazno Gigante LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mArShSmLgt8YQQEyX2V5qLVSoGR.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Jim y el Durazno Gigante LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Jim%20y%20el%20Durazno%20Gigante/Jim%20y%20el%20Durazno%20Gigante%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Jim y el Durazno Gigante SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mArShSmLgt8YQQEyX2V5qLVSoGR.jpg" group-title="ANIMACIÓN",Jim y el Durazno Gigante SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Jim%20y%20el%20Durazno%20Gigante/Jim%20y%20el%20Durazno%20Gigante%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Kim Possible 2019 LATINO" tvg-logo="https://pelisimg.online/cover/kim-posible.jpg" group-title="FAMILIAR",Kim Possible 2019 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Kim Possible 2019 LATINO" tvg-logo="https://pelisimg.online/cover/kim-posible.jpg" group-title="⭐⭐PELICULAS FAMILIAR⭐⭐",Kim Possible 2019 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/KIM%20POSSIBLE/Kim%20Possible%202019%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Kim Possible 2019 SUB" tvg-logo="https://pelisimg.online/cover/kim-posible.jpg" group-title="FAMILIAR",Kim Possible 2019 SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/KIM%20POSSIBLE/Kim%20Possible%202019%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars Especial felices fiestas SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ApYuiyKtkyA1SMC6UgvKZczPwUj.jpg" group-title="ANIMACIÓN",LEGO Star Wars Especial felices fiestas SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/LEGO%20Star%20Wars%20Especial%20felices%20fiestas/LEGO%20Star%20Wars%20Especial%20felices%20fiestas%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de Sleepy Hollow y El Señor Sapo LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aoicvoqTbV2yESc8824JpWt11VP.jpg" group-title="ANIMACIÓN",La Leyenda de Sleepy Hollow y El Señor Sapo LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de Sleepy Hollow y El Señor Sapo LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aoicvoqTbV2yESc8824JpWt11VP.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Leyenda de Sleepy Hollow y El Señor Sapo LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20Leyenda%20de%20Sleepy%20Hollow%20y%20El%20Se%c3%b1or%20Sapo/La%20Leyenda%20de%20Sleepy%20Hollow%20y%20El%20Se%c3%b1or%20Sapo%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de Sleepy Hollow y El Señor Sapo SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aoicvoqTbV2yESc8824JpWt11VP.jpg" group-title="ANIMACIÓN",La Leyenda de Sleepy Hollow y El Señor Sapo SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20Leyenda%20de%20Sleepy%20Hollow%20y%20El%20Se%c3%b1or%20Sapo/La%20Leyenda%20de%20Sleepy%20Hollow%20y%20El%20Se%c3%b1or%20Sapo%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia 2017 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9ejTG3RYW3psH0cVhFmkVtTzdJx.jpg" group-title="FAMILIAR",La bella y la bestia 2017 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia 2017 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9ejTG3RYW3psH0cVhFmkVtTzdJx.jpg" group-title="⭐⭐PELICULAS FAMILIAR⭐⭐",La bella y la bestia 2017 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20bella%20y%20la%20bestia/La%20bella%20y%20la%20bestia%202017%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia SUB 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9ejTG3RYW3psH0cVhFmkVtTzdJx.jpg" group-title="FAMILIAR",La bella y la bestia SUB 2017 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20bella%20y%20la%20bestia/La%20bella%20y%20la%20bestia%20SUB%202017.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia LAT 1" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="ANIMACIÓN",La bella y la bestia LAT 1 
+#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia LAT 1" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La bella y la bestia LAT 1 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20bella%20y%20la%20bestia/La%20bella%20y%20la%20bestia%20LAT%20%201.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia SUB 1" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="ANIMACIÓN",La bella y la bestia SUB 1 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20bella%20y%20la%20bestia/La%20bella%20y%20la%20bestia%20SUB%20%201.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cenicienta LAT" tvg-logo="https://www.eldoblaje.com/datos/FotosCaratulas/1055.jpg" group-title="ANIMACIÓN",Cenicienta LAT
+#EXTINF:-1 tvg-id="" tvg-name="Cenicienta LAT" tvg-logo="https://www.eldoblaje.com/datos/FotosCaratulas/1055.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Cenicienta LAT
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20cenicienta/Cenicienta_LAT%201.MP4
 
-#EXTINF:-1 tvg-id="" tvg-name="Cenicienta_SUB 1" tvg-logo="https://www.eldoblaje.com/datos/FotosCaratulas/1055.jpg" group-title="ANIMACIÓN",Cenicienta_SUB 1 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20cenicienta/Cenicienta_SUB%201.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La cenicienta 2 latino" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2EoH5WWtDYuQLYVLHeJxfvbSRyK.jpg" group-title="ANIMACIÓN",La cenicienta 2 latino 
+#EXTINF:-1 tvg-id="" tvg-name="La cenicienta 2 latino" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2EoH5WWtDYuQLYVLHeJxfvbSRyK.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La cenicienta 2 latino 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20cenicienta/La%20cenicienta%202%20latino.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La cenicienta 2 latino SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2EoH5WWtDYuQLYVLHeJxfvbSRyK.jpg" group-title="ANIMACIÓN",La cenicienta 2 latino SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20cenicienta/La%20cenicienta%202%20latino%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La cenicienta 3 SUB" tvg-logo="https://pelisimg.online/cover/cenicienta-3-que-pasaria-si-1578597605.jpg" group-title="ANIMACIÓN",La cenicienta 3 SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20cenicienta/La%20cenicienta%203%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La cenicienta 3 latino" tvg-logo="https://pelisimg.online/cover/cenicienta-3-que-pasaria-si-1578597605.jpg" group-title="ANIMACIÓN",La cenicienta 3 latino 
+#EXTINF:-1 tvg-id="" tvg-name="La cenicienta 3 latino" tvg-logo="https://pelisimg.online/cover/cenicienta-3-que-pasaria-si-1578597605.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La cenicienta 3 latino 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20cenicienta/La%20cenicienta%203%20latino.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Princesa Y El Sapo LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="ANIMACIÓN",La Princesa Y El Sapo LAT.
+#EXTINF:-1 tvg-id="" tvg-name="La Princesa Y El Sapo LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Princesa Y El Sapo LAT.
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20princesa%20y%20el%20sapo/La%20Princesa%20Y%20El%20Sapo%20LAT.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="La Princesa Y El Sapo SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" group-title="ANIMACIÓN",La Princesa Y El Sapo SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/La%20princesa%20y%20el%20sapo/La%20Princesa%20Y%20El%20Sapo%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Let’s Be Tigers (Seamos tigres) (2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hPaF9ICdWIAubVAsM9t8elG5ddV.jpg" group-title="DRAMA",Let’s Be Tigers (Seamos tigres) (2021)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Let’s Be Tigers (Seamos tigres) (2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hPaF9ICdWIAubVAsM9t8elG5ddV.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Let’s Be Tigers (Seamos tigres) (2021)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Let%e2%80%99s%20Be%20Tigers%20(Seamos%20tigres)%20(2021)/Let%e2%80%99s%20Be%20Tigers%20(Seamos%20tigres)%20(2021)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Let’s Be Tigers (Seamos tigres) (2021)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hPaF9ICdWIAubVAsM9t8elG5ddV.jpg" group-title="DRAMA",Let’s Be Tigers (Seamos tigres) (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Let%e2%80%99s%20Be%20Tigers%20(Seamos%20tigres)%20(2021)/Let%e2%80%99s%20Be%20Tigers%20(Seamos%20tigres)%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Los elefantes 2020 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fO6SPxlzfRBMp8qJ51dQrSBgEcg.jpg" group-title="DOCUMENTAL",Los elefantes 2020 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Los elefantes 2020 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fO6SPxlzfRBMp8qJ51dQrSBgEcg.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",Los elefantes 2020 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Los%20elefantes/Los%20elefantes%202020%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Los elefantes 2020 SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fO6SPxlzfRBMp8qJ51dQrSBgEcg.jpg" group-title="DOCUMENTAL",Los elefantes 2020 SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Los%20elefantes/Los%20elefantes%202020%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Magic Camp LATINO 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/awcPLFFYjufRXd2oAAP6ZIXF9vM.jpg" group-title="COMEDIA",Magic Camp LATINO 2020 
+#EXTINF:-1 tvg-id="" tvg-name="Magic Camp LATINO 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/awcPLFFYjufRXd2oAAP6ZIXF9vM.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Magic Camp LATINO 2020 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Magic%20Camp/Magic%20Camp%20LATINO%202020.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Magic Camp SUB 2020 " tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/awcPLFFYjufRXd2oAAP6ZIXF9vM.jpg" group-title="COMEDIA",Magic Camp SUB 2020 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Magic%20Camp/Magic%20Camp%20SUB%202020.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Marvel’s Behind the Mask(2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/e0U9S7zKfWIHUWBtvUGRFCFDhz9.jpg" group-title="DOCUMENTAL",Marvel’s Behind the Mask(2021)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Marvel’s Behind the Mask(2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/e0U9S7zKfWIHUWBtvUGRFCFDhz9.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",Marvel’s Behind the Mask(2021)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Marvel%e2%80%99s%20Behind%20the%20Mask%20(%20(2021)/Marvel%e2%80%99s%20Behind%20the%20Mask(2021)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Marvels Behind the Mask (Marvel Detrás de la máscara) (2021)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/e0U9S7zKfWIHUWBtvUGRFCFDhz9.jpg" group-title="DOCUMENTAL",Marvels Behind the Mask (Marvel Detrás de la máscara) (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Marvel%e2%80%99s%20Behind%20the%20Mask%20(%20(2021)/Marvels%20Behind%20the%20Mask%20(Marvel%20Detr%c3%a1s%20de%20la%20m%c3%a1scara)%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La navidad mágica de Mickey_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hwDIo4sYJXPN0LbQtYe0afMCxcE.jpg" group-title="ANIMACIÓN",La navidad mágica de Mickey_LAT 
+#EXTINF:-1 tvg-id="" tvg-name="La navidad mágica de Mickey_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hwDIo4sYJXPN0LbQtYe0afMCxcE.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La navidad mágica de Mickey_LAT 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Mickey%20Descubre%20la%20Navidad/La%20navidad%20m%c3%a1gica%20de%20Mickey_LAT.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mickey descubre la Navidad_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/54KDm2yE3YcHtNoLTPL2ceZcTsP.jpg" group-title="ANIMACIÓN",Mickey descubre la Navidad_LAT
+#EXTINF:-1 tvg-id="" tvg-name="Mickey descubre la Navidad_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/54KDm2yE3YcHtNoLTPL2ceZcTsP.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Mickey descubre la Navidad_LAT
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Mickey%20Descubre%20la%20Navidad/Mickey%20descubre%20la%20Navidad_LAT.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMACIÓN",Mickey Descubre La Navidad SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/54KDm2yE3YcHtNoLTPL2ceZcTsP.jpg" group-title="ANIMACIÓN",Mickey Descubre La Navidad SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Mickey%20Descubre%20la%20Navidad/Mickey%20Descubre%20La%20Navidad%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse - El club de los villanos LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wK49KfZsVgyEKeFtIJUMWpFhBR4.jpg" group-title="ANIMACIÓN",Mickey Mouse- El club de los villanos_LAT 
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse - El club de los villanos LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wK49KfZsVgyEKeFtIJUMWpFhBR4.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Mickey Mouse- El club de los villanos_LAT 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Mickey%20Descubre%20la%20Navidad/Mickey%20Mouse-%20El%20club%20de%20los%20villanos_LAT.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Una Navidad con Mickey LATINO 1983" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3fp6Og76ETtbKGiMffBTsrCcXJ3.jpg" group-title="ANIMACIÓN",Una Navidad con Mickey LATINO 1983 
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad con Mickey LATINO 1983" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3fp6Og76ETtbKGiMffBTsrCcXJ3.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Una Navidad con Mickey LATINO 1983 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Mickey%20Descubre%20la%20Navidad/Una%20Navidad%20con%20Mickey%20LATINO%201983.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Monsters Inc 1 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg" group-title="ANIMACIÓN",Monsters Inc 1 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Monsters Inc 1 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Monsters Inc 1 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Monsters%20University%201%20Y%202/Monsters%20Inc%201%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Monsters Inc 1 SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg" group-title="ANIMACIÓN",Monsters Inc 1 SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Monsters%20University%201%20Y%202/Monsters%20Inc%201%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Monstruos University_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg" group-title="ANIMACIÓN",Monstruos University_LAT 
+#EXTINF:-1 tvg-id="" tvg-name="Monstruos University_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Monstruos University_LAT 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Monsters%20University%201%20Y%202/Monstruos%20University_LAT.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Monstruos University_SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg" group-title="ANIMACIÓN",Monstruos University_SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Monsters%20University%201%20Y%202/Monstruos%20University_SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="NACIDOS EN CHINA LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/36KxNR4MfoWGGZKwObSmQF54JbZ.jpg" group-title="DOCUMENTAL",NACIDOS EN CHINA LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="NACIDOS EN CHINA LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/36KxNR4MfoWGGZKwObSmQF54JbZ.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",NACIDOS EN CHINA LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Nacidos%20en%20China/NACIDOS%20EN%20CHINA%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="NACIDOS EN CHINA SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/36KxNR4MfoWGGZKwObSmQF54JbZ.jpg" group-title="DOCUMENTAL",NACIDOS EN CHINA SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Nacidos%20en%20China/NACIDOS%20EN%20CHINA%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Needle in a Timestack (2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg" group-title="DRAMA",Needle in a Timestack (2021)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Needle in a Timestack (2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Needle in a Timestack (2021)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Needle%20in%20a%20Timestack%20(2021)/Needle%20in%20a%20Timestack%20(2021)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Needle in a Timestack (2021)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg" group-title="DRAMA",Needle in a Timestack (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Needle%20in%20a%20Timestack%20(2021)/Needle%20in%20a%20Timestack%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 2 Viaje a un nuevo mundo_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" group-title="ANIMACIÓN",Pocahontas 2 Viaje a un nuevo mundo_LAT 
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 2 Viaje a un nuevo mundo_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pocahontas 2 Viaje a un nuevo mundo_LAT 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/POCAHONTAS/Pocahontas%202%20Viaje%20a%20un%20nuevo%20mundo_LAT.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 2 Viaje a un nuevo mundo_SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" group-title="ANIMACIÓN",Pocahontas 2 Viaje a un nuevo mundo_SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/POCAHONTAS/Pocahontas%202%20Viaje%20a%20un%20nuevo%20mundo_SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas_LAT 1" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="ANIMACIÓN",Pocahontas_LAT 1 
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas_LAT 1" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pocahontas_LAT 1 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/POCAHONTAS/Pocahontas_LAT%201.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas_SUB 1" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="ANIMACIÓN",Pocahontas_SUB 1 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/POCAHONTAS/Pocahontas_SUB%201.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan 2_ El Regreso al País de Nunca Jamás LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kkFeLiMeih9jgXatztoloOyGSbc.jpg" group-title="ANIMACIÓN",Peter Pan 2_ El Regreso al País de Nunca Jamás LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan 2_ El Regreso al País de Nunca Jamás LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kkFeLiMeih9jgXatztoloOyGSbc.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Peter Pan 2_ El Regreso al País de Nunca Jamás LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Peter%20Pan/Peter%20Pan%202_%20El%20Regreso%20al%20Pa%c3%ads%20de%20Nunca%20Jam%c3%a1s%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan 1953 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg" group-title="ANIMACIÓN",Peter Pan 1953 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan 1953 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Peter Pan 1953 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Peter%20Pan/Peter%20Pan%201953%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan 2003 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xtJoP8pppOqT4rECg3E8VkvFkCj.jpg" group-title="FANTASÍA",Peter Pan 2003 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan 2003 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xtJoP8pppOqT4rECg3E8VkvFkCj.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",Peter Pan 2003 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Peter%20Pan/Peter%20Pan%202003%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Playhouse (2020)LATINO" tvg-logo="https://www3.pelisplus.uno/wp-content/uploads/2021/10/cF4tZH8VQ6Lic3bi4WKwWDJODQf-200x300.jpg" group-title="TERROR",Playhouse (2020)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Playhouse (2020)LATINO" tvg-logo="https://www3.pelisplus.uno/wp-content/uploads/2021/10/cF4tZH8VQ6Lic3bi4WKwWDJODQf-200x300.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Playhouse (2020)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Playhouse%20(2020)/Playhouse%20(2020)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Safety La Última Línea de Defensa LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3SwUcvS7HPLLjd1ttwSW26Kb1li.jpg" group-title="DRAMA",Safety La Última Línea de Defensa LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Safety La Última Línea de Defensa LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3SwUcvS7HPLLjd1ttwSW26Kb1li.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Safety La Última Línea de Defensa LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Safety%20La%20%c3%9altima%20L%c3%adnea%20de%20Defensa/Safety%20La%20%c3%9altima%20L%c3%adnea%20de%20Defensa%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Safety La Última Línea de Defensa SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3SwUcvS7HPLLjd1ttwSW26Kb1li.jpg" group-title="DRAMA",Safety La Última Línea de Defensa SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Safety%20La%20%c3%9altima%20L%c3%adnea%20de%20Defensa/Safety%20La%20%c3%9altima%20L%c3%adnea%20de%20Defensa%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Saludos amigos_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg" group-title="ANIMACIÓN",Saludos amigos_LAT
+#EXTINF:-1 tvg-id="" tvg-name="Saludos amigos_LAT" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Saludos amigos_LAT
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Saludos%20amigos/Saludos%20amigos_LAT.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Saludos amigos_SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg" group-title="ANIMACIÓN",Saludos amigos_SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Saludos%20amigos/Saludos%20amigos_SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Seaspiracy La Pesca Insostenible LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg" group-title="DOCUMENTAL",Seaspiracy La Pesca Insostenible LATINO 2021 
+#EXTINF:-1 tvg-id="" tvg-name="Seaspiracy La Pesca Insostenible LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",Seaspiracy La Pesca Insostenible LATINO 2021 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Seaspiracy%20La%20Pesca%20Insostenible/Seaspiracy%20La%20Pesca%20Insostenible%20LATINO%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Seaspiracy La Pesca Insostenible SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg" group-title="DOCUMENTAL",Seaspiracy La Pesca Insostenible SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Seaspiracy%20La%20Pesca%20Insostenible/Seaspiracy%20La%20Pesca%20Insostenible%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="South Park Post Covid (Lat-HD-1080p).Entrepeliculasyseries.io" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/abDxPtElhJnLnnJxgMqJ1N2H8yl.jpg" group-title="ANIMACIÓN",South Park Post Covid (Lat-HD-1080p).Entrepeliculasyseries.io 
+#EXTINF:-1 tvg-id="" tvg-name="South Park Post Covid (Lat-HD-1080p).Entrepeliculasyseries.io" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/abDxPtElhJnLnnJxgMqJ1N2H8yl.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",South Park Post Covid (Lat-HD-1080p).Entrepeliculasyseries.io 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/South%20Park%20Post%20COVID/50u1n.9@nk.P0r1.C0v1d.(Lat-HD-1080p).Entrepeliculasyseries.io.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="South Park Post Covid.(Sub-HD-720p).Entrepeliculasyseries.io" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/abDxPtElhJnLnnJxgMqJ1N2H8yl.jpg" group-title="ANIMACIÓN",South Park Post Covid.(Sub-HD-720p).Entrepeliculasyseries.io 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/South%20Park%20Post%20COVID/50u1n.9@nk.P0r1.C0v1d.(Sub-HD-720p).Entrepeliculasyseries.io.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Soy Luna El Último Concierto LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wKw7suet4zEZFOPul03qBEKriUV.jpg" group-title="MÚSICA",Soy Luna El Último Concierto LATINO 2021 
+#EXTINF:-1 tvg-id="" tvg-name="Soy Luna El Último Concierto LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wKw7suet4zEZFOPul03qBEKriUV.jpg" group-title="⭐⭐PELICULAS MÚSICA⭐⭐",Soy Luna El Último Concierto LATINO 2021 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Soy%20Luna/Soy%20Luna%20El%20%c3%9altimo%20Concierto%20LATINO%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Soy Luna en concierto LATINO 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xPbuPzaEVPbeeZ1UqOTNvKE77PN.jpg" group-title="MÚSICA",Soy Luna en concierto LATINO 2018 
+#EXTINF:-1 tvg-id="" tvg-name="Soy Luna en concierto LATINO 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xPbuPzaEVPbeeZ1UqOTNvKE77PN.jpg" group-title="⭐⭐PELICULAS MÚSICA⭐⭐",Soy Luna en concierto LATINO 2018 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Soy%20Luna/Soy%20Luna%20en%20concierto%20LATINO%202018.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3s5VcWNjQA1KtRmANnSwPKFmpCt.jpg" group-title="DRAMA",Stargirl LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3s5VcWNjQA1KtRmANnSwPKFmpCt.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Stargirl LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Stargirl/Stargirl%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3s5VcWNjQA1KtRmANnSwPKFmpCt.jpg" group-title="DRAMA",Stargirl SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Stargirl/Stargirl%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Tarzán_LAT 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg" group-title="ANIMACIÓN",Tarzán_LAT 2019
+#EXTINF:-1 tvg-id="" tvg-name="Tarzán_LAT 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Tarzán_LAT 2019
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Tarz%c3%a1n/Tarz%c3%a1n_LAT.MP4
 
-#EXTINF:-1 tvg-id="" tvg-name="Tarzán_SUB 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg" group-title="ANIMACIÓN",Tarzán_SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Tarz%c3%a1n/Tarz%c3%a1n_SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Staten Island (2021)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mZPyZ22kzcmfyt1dQapaSiQenvI.jpg" group-title="DRAMA",Once Upon a Time in Staten Island (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Deep%20House%20(2021)/Once%20Upon%20a%20Time%20in%20Staten%20Island%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Deep House (2021) CASTELLANO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hJyI1ziAnWmmzE8bOaZzJN7IqgM.jpg" group-title="TERROR",The Deep House (2021)CASTELLANO 
+#EXTINF:-1 tvg-id="" tvg-name="The Deep House (2021) CASTELLANO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hJyI1ziAnWmmzE8bOaZzJN7IqgM.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",The Deep House (2021)CASTELLANO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Deep%20House%20(2021)/The%20Deep%20House%20(2021)CASTELLANO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Deep House (2021)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hJyI1ziAnWmmzE8bOaZzJN7IqgM.jpg" group-title="TERROR",The Deep House (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Deep%20House%20(2021)/The%20Deep%20House%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Jungle Book 2016 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pQGB08Kxyt3TLN4L01E175BRcvu.jpg" group-title="FAMILIAR",The Jungle Book 2016 LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="The Jungle Book 2016 LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pQGB08Kxyt3TLN4L01E175BRcvu.jpg" group-title="⭐⭐PELICULAS FAMILIAR⭐⭐",The Jungle Book 2016 LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Jungle%20Book/The%20Jungle%20Book%202016%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Jungle Book 2016 SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pQGB08Kxyt3TLN4L01E175BRcvu.jpg" group-title="FAMILIAR",The Jungle Book 2016 SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Jungle%20Book/The%20Jungle%20Book%202016%20SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Last of the Chupacabras LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/td6NkIilMiRz3WLAD3XX6aTsMfd.jpg" group-title="FANTASÍA",The Last of the Chupacabras LATINO 2021 
+#EXTINF:-1 tvg-id="" tvg-name="The Last of the Chupacabras LATINO 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/td6NkIilMiRz3WLAD3XX6aTsMfd.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",The Last of the Chupacabras LATINO 2021 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Last%20of%20the%20Chupacabras/The%20Last%20of%20the%20Chupacabras%20LATINO%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Last of the Chupacabras SUB 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/td6NkIilMiRz3WLAD3XX6aTsMfd.jpg" group-title="FANTASÍA",The Last of the Chupacabras SUB 2021 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Last%20of%20the%20Chupacabras/The%20Last%20of%20the%20Chupacabras%20SUB%202021.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Little Prince(ss) (El princesito (C)) (2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4O65UNeSnWqRcuTUFcy75PluCzz.jpg" group-title="DRAMA",The Little Prince(ss) (El princesito (C)) (2021)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="The Little Prince(ss) (El princesito (C)) (2021)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4O65UNeSnWqRcuTUFcy75PluCzz.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",The Little Prince(ss) (El princesito (C)) (2021)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Little%20Prince(ss)%20(El%20princesito%20(C))%20(2021)/The%20Little%20Prince(ss)%20(El%20princesito%20(C))%20(2021)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Little Prince(ss) (El princesito (C)) (2021)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4O65UNeSnWqRcuTUFcy75PluCzz.jpg" group-title="DRAMA",The Little Prince(ss) (El princesito (C)) (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Little%20Prince(ss)%20(El%20princesito%20(C))%20(2021)/The%20Little%20Prince(ss)%20(El%20princesito%20(C))%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Sorcerer’s Apprentice (El aprendiz de brujo) (2010)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uLUv1ZQxECr1tcyGqjirTc4nZtM.jpg" group-title="FANTASÍA",The Sorcerer’s Apprentice (El aprendiz de brujo) (2010)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="The Sorcerer’s Apprentice (El aprendiz de brujo) (2010)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uLUv1ZQxECr1tcyGqjirTc4nZtM.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",The Sorcerer’s Apprentice (El aprendiz de brujo) (2010)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Sorcerer%e2%80%99s%20Apprentice%20(El%20aprendiz%20de%20brujo)%20(2010)/The%20Sorcerer%e2%80%99s%20Apprentice%20(El%20aprendiz%20de%20brujo)%20(2010)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Sorcerer’s Apprentice (El aprendiz de brujo) (2010)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uLUv1ZQxECr1tcyGqjirTc4nZtM.jpg" group-title="FANTASÍA",The Sorcerer’s Apprentice (El aprendiz de brujo) (2010)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/The%20Sorcerer%e2%80%99s%20Apprentice%20(El%20aprendiz%20de%20brujo)%20(2010)/The%20Sorcerer%e2%80%99s%20Apprentice%20(El%20aprendiz%20de%20brujo)%20(2010)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Togo LATINO 2019" tvg-logo="https://www.peelink2.com/wp-content/uploads/2019/12/Togo-2019-Online.jpg" group-title="FAMILIAR",Togo LATINO 2019 
+#EXTINF:-1 tvg-id="" tvg-name="Togo LATINO 2019" tvg-logo="https://www.peelink2.com/wp-content/uploads/2019/12/Togo-2019-Online.jpg" group-title="⭐⭐PELICULAS FAMILIAR⭐⭐",Togo LATINO 2019 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Togo/Togo%20LATINO%202019.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Togo SUB 2019" tvg-logo="https://www.peelink2.com/wp-content/uploads/2019/12/Togo-2019-Online.jpg" group-title="FAMILIAR",Togo SUB 2019 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Togo/Togo%20SUB%202019.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story El tiempo perdido (2014)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3m8SkdSzWOkNodITnuqXCGaIdFG.jpg" group-title="ANIMACIÓN",Toy Story El tiempo perdido (2014)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story El tiempo perdido (2014)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3m8SkdSzWOkNodITnuqXCGaIdFG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Toy Story El tiempo perdido (2014)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Toy%20Story/Toy%20Story%20El%20tiempo%20perdido%20(2014)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story El tiempo perdido (2014)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3m8SkdSzWOkNodITnuqXCGaIdFG.jpg" group-title="ANIMACIÓN",Toy Story El tiempo perdido (2014)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Toy%20Story/Toy%20Story%20El%20tiempo%20perdido%20(2014)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story Toons Fiesta Saurio Rex (2012)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6AVL53Y4o1W2zkSuP1dDrMw0KoP.jpg" group-title="ANIMACIÓN",Toy Story Toons Fiesta Saurio Rex (2012)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story Toons Fiesta Saurio Rex (2012)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6AVL53Y4o1W2zkSuP1dDrMw0KoP.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Toy Story Toons Fiesta Saurio Rex (2012)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Toy%20Story/Toy%20Story%20Toons%20Fiesta%20Saurio%20Rex%20(2012)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story Toons Fiesta Saurio Rex (2012)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6AVL53Y4o1W2zkSuP1dDrMw0KoP.jpg" group-title="ANIMACIÓN",Toy Story Toons Fiesta Saurio Rex (2012)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Toy%20Story/Toy%20Story%20Toons%20Fiesta%20Saurio%20Rex%20(2012)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story Toons Pequeño gran Buzz (2011)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fyLKw1MzdpBsYtZxESLf4xqSSvR.jpg" group-title="ANIMACIÓN",Toy Story Toons Pequeño gran Buzz (2011)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Toy%20Story/Toy%20Story%20Toons%20Peque%c3%b1o%20gran%20Buzz%20(2011)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story Toons Vacaciones en Hawái (2011)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zK0tA15d6Ltr1FK7sEXv9zIpzEJ.jpg" group-title="ANIMACIÓN",Toy Story Toons Vacaciones en Hawái (2011)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story Toons Vacaciones en Hawái (2011)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zK0tA15d6Ltr1FK7sEXv9zIpzEJ.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Toy Story Toons Vacaciones en Hawái (2011)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Toy%20Story/Toy%20Story%20Toons%20Vacaciones%20en%20Haw%c3%a1i%20(2011)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story Toons Vacaciones en Hawái (2011)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zK0tA15d6Ltr1FK7sEXv9zIpzEJ.jpg" group-title="ANIMACIÓN",Toy Story Toons Vacaciones en Hawái (2011)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Toy%20Story/Toy%20Story%20Toons%20Vacaciones%20en%20Haw%c3%a1i%20(2011)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Upside-Down Magic (2020)LATINO" tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w185/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg" group-title="FANTASÍA",Upside-Down Magic (2020)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Upside-Down Magic (2020)LATINO" tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w185/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",Upside-Down Magic (2020)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Upside-Down%20Magic%20(2020)/Upside-Down%20Magic%20(2020)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Upside-Down Magic (2020)SUB" tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w185/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg" group-title="FANTASÍA",Upside-Down Magic (2020)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Upside-Down%20Magic%20(2020)/Upside-Down%20Magic%20(2020)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Us Again (Juntos nuevamente) (2021) LATINO" tvg-logo="https://pics.filmaffinity.com/us_again-261576256-mmed.jpg" group-title="ANIMACIÓN",Us Again (Juntos nuevamente) (2021) LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Us Again (Juntos nuevamente) (2021) LATINO" tvg-logo="https://pics.filmaffinity.com/us_again-261576256-mmed.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Us Again (Juntos nuevamente) (2021) LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Us%20Again%20(Juntos%20nuevamente)%20(2021)/Us%20Again%20(Juntos%20nuevamente)%20(2021)%20LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Indomable_LAT 2012" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/eVt6IKkzKqNs80TX0JVan6sjH5Z.jpg" group-title="ANIMACIÓN",Indomable_LAT 2012 
+#EXTINF:-1 tvg-id="" tvg-name="Indomable_LAT 2012" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/eVt6IKkzKqNs80TX0JVan6sjH5Z.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Indomable_LAT 2012 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Valiente/Indomable_LAT%202012.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Indomable SUB 2012" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/eVt6IKkzKqNs80TX0JVan6sjH5Z.jpg" group-title="ANIMACIÓN",Indomable SUB 2012 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Valiente/Indomable%20SUB%202012.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="WALL-E Batallón de limpieza (2008.1080p Lat_1)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3gKwcubqhN8J7pLcMcCDY1YJLJ.jpg" group-title="ANIMACIÓN",WALL-E Batallón de limpieza (2008.1080p Lat_1) 
+#EXTINF:-1 tvg-id="" tvg-name="WALL-E Batallón de limpieza (2008.1080p Lat_1)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3gKwcubqhN8J7pLcMcCDY1YJLJ.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",WALL-E Batallón de limpieza (2008.1080p Lat_1) 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/WALL%c2%b7E/Wall-e.2008.1080p.Lat_1.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="WALL-E Batallón de limpieza (2008.1080p_Sub)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3gKwcubqhN8J7pLcMcCDY1YJLJ.jpg" group-title="ANIMACIÓN",WALL-E Batallón de limpieza (2008.1080p-Sub) 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/WALL%c2%b7E/Wall-e.2008.1080p.Sub.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Warning (2021)LATINO" tvg-logo="https://cuevana.pro/resize/200/storage/11399/X9z3dhLxI68lj9svH7e9VCpbgBRTpnAMWWrUBW2n.jpg" group-title="CIENCIA FICCIÓN",Warning (2021)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Warning (2021)LATINO" tvg-logo="https://cuevana.pro/resize/200/storage/11399/X9z3dhLxI68lj9svH7e9VCpbgBRTpnAMWWrUBW2n.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",Warning (2021)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Warning%20(2021)/Warning%20(2021)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Warning (2021)SUB" tvg-logo="https://cuevana.pro/resize/200/storage/11399/X9z3dhLxI68lj9svH7e9VCpbgBRTpnAMWWrUBW2n.jpg" group-title="CIENCIA FICCIÓN",Warning (2021)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Warning%20(2021)/Warning%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Wings of Life (Alas de la vida) (2013)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u7wfV0wDV3drPcuKyHXEMDhuB9t.jpg" group-title="DOCUMENTAL",Wings of Life (Alas de la vida) (2013)LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="Wings of Life (Alas de la vida) (2013)LATINO" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u7wfV0wDV3drPcuKyHXEMDhuB9t.jpg" group-title="⭐⭐PELICULAS DOCUMENTAL⭐⭐",Wings of Life (Alas de la vida) (2013)LATINO 
 https://tvinnov.online/ESTRENOS%20PELICULAS%202/Wings%20of%20Life%20(Alas%20de%20la%20vida)%20(2013)/Wings%20of%20Life%20(Alas%20de%20la%20vida)%20(2013)LATINO.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Wings of Life (Alas de la vida) (2013)SUB" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u7wfV0wDV3drPcuKyHXEMDhuB9t.jpg" group-title="DOCUMENTAL",Wings of Life (Alas de la vida) (2013)SUB 
-https://tvinnov.online/ESTRENOS%20PELICULAS%202/Wings%20of%20Life%20(Alas%20de%20la%20vida)%20(2013)/Wings%20of%20Life%20(Alas%20de%20la%20vida)%20(2013)SUB.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Solterísima (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qptLj4WxATqp3MZq97JmhYjtc9B.jpg" group-title="COMEDIA",Solterísima (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Solterísima (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qptLj4WxATqp3MZq97JmhYjtc9B.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Solterísima (2020)
 http://offshore.lat:8080/play/WpxINDtvNxxrgQ3iHOy8bK4FnH6p4CAmMGSEZRkeKurhYxq2OWuLq6G3UfneiZAB#.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="A.I Inteligencia Artificial 2001" tvg-logo="https://dicpelis.com/wp-content/uploads/2021/07/A_I_Artificial_Intelligence_poster_espaol.jpg" group-title="CIENCIA FICCIÓN ",A.I Inteligencia Artificial 2001
+#EXTINF:-1 tvg-id="" tvg-name="A.I Inteligencia Artificial 2001" tvg-logo="https://dicpelis.com/wp-content/uploads/2021/07/A_I_Artificial_Intelligence_poster_espaol.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",A.I Inteligencia Artificial 2001
 http://archive.org/download/202209_20220918_1346/Inteligencia%20artificial.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Abril Y El Mundo Extraordinario 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4o4E1Jyllx9J5TOYmChsS4Jjvvs.jpg" group-title="ANIMACIÓN",A.I Abril Y El Mundo Extraordinario 2015 (AnimaciÃ³n)
+#EXTINF:-1 tvg-id="" tvg-name="Abril Y El Mundo Extraordinario 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4o4E1Jyllx9J5TOYmChsS4Jjvvs.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",A.I Abril Y El Mundo Extraordinario 2015 (AnimaciÃ³n)
 http://archive.org/download/20221002_20221002_0722/abril%20y%20el%20mundo%20extraordinario.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Adictos Al Amor 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dXZdt79XwGvyxNe1kv9G4FN9suX.jpg" group-title="ROMANCE",Adictos Al Amor 1997 (Romance)
+#EXTINF:-1 tvg-id="" tvg-name="Adictos Al Amor 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dXZdt79XwGvyxNe1kv9G4FN9suX.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",Adictos Al Amor 1997 (Romance)
 http://archive.org/download/20221002_20221002_0815/adictos%20al%20amor.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Animatrix 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3vq0XC4a7C1IRqpnI2tdfkuMB7g.jpg" group-title="ANIME",Animatrix 2013 (Anime)
+#EXTINF:-1 tvg-id="" tvg-name="Animatrix 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3vq0XC4a7C1IRqpnI2tdfkuMB7g.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Animatrix 2013 (Anime)
 http://archive.org/download/20221002_20221002_0821/animatrix.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Ant Bully Las Aventuras De Lucas 2006" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9OnDzKX1guuePRow1mz1JyWAOwi.jpg" group-title="ANIMACIÓN",Ant Bully Las Aventuras De Lucas 2006 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Ant Bully Las Aventuras De Lucas 2006" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9OnDzKX1guuePRow1mz1JyWAOwi.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Ant Bully Las Aventuras De Lucas 2006 (Animacion)
 http://archive.org/download/20221002_20221002_0828/ant%20bully.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Aprendice Fuera De Linea" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ArwxylwEfw7xE17FJZnxbMKG4eH.jpg" group-title="COMEDIA",Aprendice Fuera De Linea
+#EXTINF:-1 tvg-id="" tvg-name="Aprendice Fuera De Linea" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ArwxylwEfw7xE17FJZnxbMKG4eH.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Aprendice Fuera De Linea
 http://archive.org/download/20220918_20220918_1952/Aprendices%20fuera%20de%20l%C3%ADnea.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Atlantis El Regreso De Milo 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg" group-title="ANIMACIÓN",Atlantis El Regreso De Milo 2003 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis El Regreso De Milo 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Atlantis El Regreso De Milo 2003 (Animacion)
 http://archive.org/download/20220918_20220918_2011/Atlantis%20El%20regreso%20de%20Milo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Bambi 1 1942" tvg-logo="https://pics.filmaffinity.com/Bambi-416541061-large.jpg" group-title="ANIMACIÓN",Bambi 1 1942 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Bambi 1 1942" tvg-logo="https://pics.filmaffinity.com/Bambi-416541061-large.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Bambi 1 1942 (Animacion)
 http://archive.org/download/202209_20220918_2029/bambi.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Bambi 2 El Gran Principe Del Bosque 2006" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzavkkRXzm5iNWrKP3coHLgR4qaPUCbRvGijThq2M0szhXQ7k" group-title="ANIMACIÓN",Bambi 2 El Gran Principe Del Bosque 2006 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Bambi 2 El Gran Principe Del Bosque 2006" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzavkkRXzm5iNWrKP3coHLgR4qaPUCbRvGijThq2M0szhXQ7k" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Bambi 2 El Gran Principe Del Bosque 2006 (Animacion)
 http://archive.org/download/2_202209/bambi%202.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Beowulf 2007" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wb3ElIvaek5Ou8HeMaF0H0q0Kud.jpg" group-title="ANIME",Beowulf 2007 (Anime)
+#EXTINF:-1 tvg-id="" tvg-name="Beowulf 2007" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wb3ElIvaek5Ou8HeMaF0H0q0Kud.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Beowulf 2007 (Anime)
 http://archive.org/download/202209_20220918_2108/Beowulf.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Blanca Nieves Y Los Siete Enanos 1937" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" group-title="ANIMACIÓN",Blanca Nieves Y Los Siete Enanos 1937 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Blanca Nieves Y Los Siete Enanos 1937" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Blanca Nieves Y Los Siete Enanos 1937 (Animacion)
 http://archive.org/download/202209_20220918_2101/blanca%20nieves.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Constantine 2005" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9bIvXIAf2i7NRMnrGowMhJJzPuY.jpg" group-title="FANTASÍA",Constantine 2005 (Fantasia)
+#EXTINF:-1 tvg-id="" tvg-name="Constantine 2005" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9bIvXIAf2i7NRMnrGowMhJJzPuY.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",Constantine 2005 (Fantasia)
 http://archive.org/download/202209_20220918_2258/Constantine.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Cuernos 2013" tvg-logo="https://pics.filmaffinity.com/horns-446321673-mmed.jpg" group-title="SUSPENSO",Cuernos 2013 (Suspenso)
+#EXTINF:-1 tvg-id="" tvg-name="Cuernos 2013" tvg-logo="https://pics.filmaffinity.com/horns-446321673-mmed.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Cuernos 2013 (Suspenso)
 http://archive.org/download/202209_20220918_2312/Cuernos.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Daniel El Travieso Vacaciones En El Mar 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ylHTi1MNLf5V8nUHQFRt7rQLene.jpg" group-title="ANIMACIÓN",Daniel El Travieso Vacaciones En El Mar 2002 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Daniel El Travieso Vacaciones En El Mar 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ylHTi1MNLf5V8nUHQFRt7rQLene.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Daniel El Travieso Vacaciones En El Mar 2002 (Animacion)
 http://archive.org/download/20220919_202209/Daniel%20el%20travieso%20Vacaciones%20en%20el%20mar.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Duro De Cuidar 2 2021" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbmi9r1xuXSGJkteo_-2mmMih0PG1YLd1Ayf5LB2V2hUPDlKRF" group-title="ACCIÓN",Duro De Cuidar 2 2021 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Duro De Cuidar 2 2021" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbmi9r1xuXSGJkteo_-2mmMih0PG1YLd1Ayf5LB2V2hUPDlKRF" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Duro De Cuidar 2 2021 (Accion)
 http://archive.org/download/2_202209_202209/Duro%20de%20cuidar%202.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El Camino Hacia El Dorado 2000" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yI7KqevlFBOJDpXFTZa0swDQZLU.jpg" group-title="ANIMACIÓN",El Camino Hacia El Dorado 2000 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="El Camino Hacia El Dorado 2000" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yI7KqevlFBOJDpXFTZa0swDQZLU.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",El Camino Hacia El Dorado 2000 (Animacion)
 http://archive.org/download/202210_20221004_0422/el%20dorado.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El Ejercito De Los Muertos 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4h1Uc13QPjHTTUX0bikICWUxTSV.jpg" group-title="ACCIÓN",El Ejercito De Los Muertos 2021 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="El Ejercito De Los Muertos 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4h1Uc13QPjHTTUX0bikICWUxTSV.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",El Ejercito De Los Muertos 2021 (Accion)
 http://archive.org/download/202209_20220918_1330/El%20ej%C3%A9rcito%20de%20los%20muertos%20.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El Espinazo Del Diablo 2001" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9lwgSFfieAKDwTQtXcnTigo1Em4.jpg" group-title="DRAMA",El Espinazo Del Diablo 2001 (Drama)
+#EXTINF:-1 tvg-id="" tvg-name="El Espinazo Del Diablo 2001" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9lwgSFfieAKDwTQtXcnTigo1Em4.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",El Espinazo Del Diablo 2001 (Drama)
 http://archive.org/download/202210_20221004_0428/el%20espinazo%20del%20diablo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El Patriota 2000" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLUncSNTSJa57Lq01myJ_zZ55-b_ZkGYD_Ql9MG9Sbro88f0ew" group-title="ACCIÓN",El Patriota 2000 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="El Patriota 2000" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLUncSNTSJa57Lq01myJ_zZ55-b_ZkGYD_Ql9MG9Sbro88f0ew" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",El Patriota 2000 (Accion)
 http://archive.org/download/202209_20220918_1307/El%20patriota.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="El Unico Y Gran Ivan 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a8DMtkQBCA44tDNxapqsF99M6K0.jpg" group-title="AVENTURA",El Unico Y Gran Ivan 2020 (Aventura)
+#EXTINF:-1 tvg-id="" tvg-name="El Unico Y Gran Ivan 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a8DMtkQBCA44tDNxapqsF99M6K0.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",El Unico Y Gran Ivan 2020 (Aventura)
 http://archive.org/download/202210_20221004_1100/el%20magn%C3%ADfico%20ivan.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Emoji La Pelicula 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg" group-title="ANIMACIÓN",Emoji La Pelicula 2017 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Emoji La Pelicula 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Emoji La Pelicula 2017 (Animacion)
 http://archive.org/download/2017_20220912/Emoji%20La%20pel%C3%ADcula%202017.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Expreso Polar 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg" group-title="ANIMACIÓN",Expreso Polar 2004 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Expreso Polar 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Expreso Polar 2004 (Animacion)
 http://archive.org/download/2004_20220917/Polar%20Express%202004.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Focus Maestros De La Estafa 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Nfl7nbruxF1z01GxExUO0GYujm.jpg" group-title="ROMANCE",Focus Maestros De La Estafa 2015 (Romance)
+#EXTINF:-1 tvg-id="" tvg-name="Focus Maestros De La Estafa 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Nfl7nbruxF1z01GxExUO0GYujm.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",Focus Maestros De La Estafa 2015 (Romance)
 http://archive.org/download/20220920_20220920_0325/Focus%20Maestros%20De%20La%20Estafa.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Frankenweenie 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4WZaUjHswR2mak767GEXgiWYxeq.jpg" group-title="ANIMACIÓN",Frankenweenie 2012 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Frankenweenie 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4WZaUjHswR2mak767GEXgiWYxeq.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Frankenweenie 2012 (Animacion)
 http://archive.org/download/2012_20220912/Frankenweenie%202012.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 1 El Vengador Fantasma 2007" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cuYXqugYkJdfIJxCAXlgZjwnuF0.jpg" group-title="ACCIÓN",Ghost Rider 1 El Vengador Fantasma 2007 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 1 El Vengador Fantasma 2007" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cuYXqugYkJdfIJxCAXlgZjwnuF0.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Ghost Rider 1 El Vengador Fantasma 2007 (Accion)
 http://archive.org/download/2007_20220927/Ghost%20Rider%20El%20Vengador%20Fantasma%202007.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 2 2012 Espiritu De Venganza" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yokkUoswEXgPiNRZvQ2XrYCEbVp.jpg" group-title="ACCIÓN",Ghost Rider 2 2012 Espiritu De Venganza (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 2 2012 Espiritu De Venganza" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yokkUoswEXgPiNRZvQ2XrYCEbVp.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Ghost Rider 2 2012 Espiritu De Venganza (Accion)
 http://archive.org/download/2012_20220927/Ghost%20Rider%202%20Esp%C3%ADritu%20de%20Venganza%202012.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Herbie 2 La Pandilla De Cupido 1974" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nABtlB6BqKjRIcMeEXB3OUvXpGf.jpg" group-title="COMEDIA",Herbie 2 La Pandilla De Cupido 1974 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 2 La Pandilla De Cupido 1974" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nABtlB6BqKjRIcMeEXB3OUvXpGf.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 2 La Pandilla De Cupido 1974 (Comedia)
 http://archive.org/download/1974_20220926/Herbie%202%20La%20Pandilla%20De%20Cupido%201974.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Herbie 3 En El Gran Prix De Montecarlo 1977" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaqLuMlapx7_kmRIWu0AsZuR9o8W4Qq-TMwlp7unP_T2cEL1d" group-title="COMEDIA",Herbie 3 En El Gran Prix De Montecarlo 1977 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 3 En El Gran Prix De Montecarlo 1977" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaqLuMlapx7_kmRIWu0AsZuR9o8W4Qq-TMwlp7unP_T2cEL1d" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 3 En El Gran Prix De Montecarlo 1977 (Comedia)
 http://archive.org/download/1977_20220927/Herbie%203%20En%20El%20Gran%20Prix%20De%20Montecarlo%201977.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Herbie 4 Cupido Motorizado Rumbo A Rio 1980" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9735D7943D20C0D6508DEA25AD9B8B57396BC0E8C71FDB2D49F40A5ACE4359DD/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp" group-title="COMEDIA",Herbie 4 Cupido Motorizado Rumbo A Rio 1980 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 4 Cupido Motorizado Rumbo A Rio 1980" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9735D7943D20C0D6508DEA25AD9B8B57396BC0E8C71FDB2D49F40A5ACE4359DD/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 4 Cupido Motorizado Rumbo A Rio 1980 (Comedia)
 http://archive.org/download/1980_20220927/Herbie%204%20Cupido%20Motorizado%20Rumbo%20A%20Rio%201980.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Herbie 5 A Toda Marcha 2005" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3fGR6XeSLh9fdwG1OYE1hlcQ7YA.jpg&w=256&q=75" group-title="COMEDIA",Herbie 5 A Toda Marcha 2005 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 5 A Toda Marcha 2005" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3fGR6XeSLh9fdwG1OYE1hlcQ7YA.jpg&w=256&q=75" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 5 A Toda Marcha 2005 (Comedia)
 http://archive.org/download/2005_20220927/Herbie%205%20A%20Toda%20Marcha%202005.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Hulk Vs Thor 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg" group-title="ANIMACIÓN",Hulk Vs Thor 2009 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Vs Thor 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN",Hulk Vs Thor 2009 (Animación)
 http://archive.org/download/20220912_20220912_1058/Hulk%20Contra%20Thor.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Hulk Vs Wolverine 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AhkMzlw5r7mVgbtVjbzDLq3Mucm.jpg" group-title="ANIMACIÓN",Hulk Vs Wolverine 2009 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Vs Wolverine 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AhkMzlw5r7mVgbtVjbzDLq3Mucm.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Hulk Vs Wolverine 2009 (Animación)
 http://archive.org/download/20220912_20220912_1103/Hulk%20vs%20Wolverine%20.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 3 La Rebelion De Los Lycans 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lvzqDNt7YWKVEGdHFKyJHz5aeR8.jpg" group-title="ACCIÓN",Inframundo 3 La Rebelion De Los Lycans 2009 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 3 La Rebelion De Los Lycans 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lvzqDNt7YWKVEGdHFKyJHz5aeR8.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Inframundo 3 La Rebelion De Los Lycans 2009 (Accion)
 http://archive.org/download/3_20221005/inframundo%203.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4 El Despertar 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg" group-title="ACCIÓN",Inframundo 4 El Despertar 2012 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4 El Despertar 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Inframundo 4 El Despertar 2012 (Accion)
 http://archive.org/download/20221005_20221005_1129/inframundo%204.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Inframundo 5 Guerras De Sangre 2016" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" group-title="ACCIÓN",Inframundo 5 Guerras De Sangre 2016 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 5 Guerras De Sangre 2016" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Inframundo 5 Guerras De Sangre 2016 (Accion)
 http://archive.org/download/20221005_20221005_1138/inframundo%205.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man La Rebelión De Technovore 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4CLH3eYDCIEQlTaOinRSVO6RQFM.jpg" group-title="ANIMACIÓN",Iron Man La Rebelión del Technivoro 2013 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man La Rebelión De Technovore 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4CLH3eYDCIEQlTaOinRSVO6RQFM.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Iron Man La Rebelión del Technivoro 2013 (Animación)
 http://archive.org/download/20220912_20220912_1114/Iron%20Man%20La%20rebeli%C3%B3n%20de%20Technovore.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man Y Hulk Heroes Unidos 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xz9WKyI3Bz33HzsR7hQgPpIoiC9.jpg" group-title="ANIMACIÓN",Iron Man Y Hulk Heroes Unidos 2013 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man Y Hulk Heroes Unidos 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xz9WKyI3Bz33HzsR7hQgPpIoiC9.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Iron Man Y Hulk Heroes Unidos 2013 (Animación)
 http://archive.org/download/20220912_20220912_1108/Iron%20Man%20%26%20Hulk%20%E2%80%93%20H%C3%A9roes%20Unidos.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man Y Capitan America Heroes Unidos 2014" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jpALvBEBe7MSEuHZDWEolcUfEGX.jpg" group-title="ANIMACIÓN",Iron Man Y Capitan America Heroes Unidos 2014 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man Y Capitan America Heroes Unidos 2014" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jpALvBEBe7MSEuHZDWEolcUfEGX.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Iron Man Y Capitan America Heroes Unidos 2014 (Animación)
 http://archive.org/download/20220913_20220913_1104/Iron%20Man%20y%20Capitan%20America%20Heroes%20Unidos.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg" group-title="AVENTURA",Jungle Cruise 2021 (Aventura)
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Jungle Cruise 2021 (Aventura)
 http://archive.org/download/202210_20221005_1146/jungle%20cruise.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Knock Knock El Lado Oscuro Del Deseo 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg" group-title="SUSPENSO",Knock Knock El Lado Oscuro Del Deseo 2015 (Suspenso)
+#EXTINF:-1 tvg-id="" tvg-name="Knock Knock El Lado Oscuro Del Deseo 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Knock Knock El Lado Oscuro Del Deseo 2015 (Suspenso)
 http://archive.org/download/202210_20221004_1054/el%20lado%20oscuro%20del%20deseo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Chica Del Ramen 2008" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aJi8lEpRCybv6TDOdX0IA3wVmL6.jpg" group-title="COMEDIA",La Chica Del Ramen 2008 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="La Chica Del Ramen 2008" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aJi8lEpRCybv6TDOdX0IA3wVmL6.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",La Chica Del Ramen 2008 (Comedia)
 http://archive.org/download/20221006_20221006_0229/la%20chica%20del%20ramen.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Cosa Mas Dulce 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xFwNQTMZlm5cl73LhqqpW0oAFOp.jpg" group-title="ROMANCE",La Cosa Mas Dulce 2002 (Romance)
+#EXTINF:-1 tvg-id="" tvg-name="La Cosa Mas Dulce 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xFwNQTMZlm5cl73LhqqpW0oAFOp.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",La Cosa Mas Dulce 2002 (Romance)
 http://archive.org/download/3_20221006/la%20cosa%20m%C3%A1s%20dulce.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Extraña Vida De Timothy Green 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dtpO6quh2f49H6KIvcUb0FdHZEk.jpg" group-title="FANTASÍA",La Extraña Vida De Timothy Green 2012 (Fantasia)
+#EXTINF:-1 tvg-id="" tvg-name="La Extraña Vida De Timothy Green 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dtpO6quh2f49H6KIvcUb0FdHZEk.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",La Extraña Vida De Timothy Green 2012 (Fantasia)
 http://archive.org/download/2_20221006_20221006/la%20extra%C3%B1a%20vida%20de%20timonti%20green.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Gran Aventura LEGO 2 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pOMqelYclqbnj4f7mL5KgSN5rJj.jpg" group-title="ANIMACIÓN",La Gran Aventura LEGO 2 2019 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Aventura LEGO 2 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pOMqelYclqbnj4f7mL5KgSN5rJj.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Gran Aventura LEGO 2 2019 (Animacion)
 http://archive.org/download/2-2019_202209/La%20LEGO%20pel%C3%ADcula%202%202019.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Gran Pelicula De Piglet 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3gumCa7HRNHE2wBLWdDgj0tvaKx.jpg" group-title="ANIMACIÓN",La Gran Pelicula De Piglet 2003 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Pelicula De Piglet 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3gumCa7HRNHE2wBLWdDgj0tvaKx.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Gran Pelicula De Piglet 2003 (Animacion)
 http://archive.org/download/20221006_20221006_1047/la%20gran%20pel%C3%ADcula%20de%20pidget.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Crisis En Las Dos Tierras 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg" group-title="ANIMACIÓN",La Liga De La Justicia Crisis En Las Dos Tierras 2010 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Crisis En Las Dos Tierras 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Crisis En Las Dos Tierras 2010 (Animación)
 http://archive.org/download/20220915_20220915_1012/Liga%20de%20la%20Justicia%20Crisis%20en%20las%20Dos%20Tierras.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia Crónicas de Dioses y Monstruos (2015)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sytZtuGtxKX6L6hyyMKtK41hLTa.jpg" group-title="ANIMACIÓN",Liga de la Justicia Crónicas de Dioses y Monstruos (2015) (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia Crónicas de Dioses y Monstruos (2015)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sytZtuGtxKX6L6hyyMKtK41hLTa.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Liga de la Justicia Crónicas de Dioses y Monstruos (2015) (Animación)
 http://archive.org/download/20220913_20220913_1116/La%20Liga%20De%20La%20Justicia%20Dioses%20y%20Monstruos.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Guerra 2014" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg" group-title="ANIMACIÓN",La Liga De La Justicia Guerra 2014 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Guerra 2014" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Guerra 2014 (Animación)
 http://archive.org/download/202209_20220915/Liga%20de%20la%20Justicia%20Guerra.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Oscura 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="ANIMACIÓN",La Liga De La Justicia Oscura 2017 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Oscura 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Oscura 2017 (Animación)
 http://archive.org/download/20220915_20220915_1046/Liga%20de%20la%20Justicia%20Oscura.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Liga De La justicia Oscura Guerra Apokolips 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/osrf7VTgAwTLIr38dxJl2Y7q35H.jpg" group-title="ANIMACIÓN",La Liga De La justicia Oscura Guerra Apokolips 2020 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La justicia Oscura Guerra Apokolips 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/osrf7VTgAwTLIr38dxJl2Y7q35H.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La justicia Oscura Guerra Apokolips 2020 (Animación)
 http://archive.org/download/202209_20220913/La%20Liga%20de%20la%20Justicia%20Oscura%20Guerra%20Apokolips.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Perdicion 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n8V3EJxD78JZvKputjBCAgPjB3x.jpg" group-title="ANIMACIÓN",La Liga De La Justicia Perdicion 2012 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Perdicion 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n8V3EJxD78JZvKputjBCAgPjB3x.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Perdicion 2012 (Animación)
 http://archive.org/download/20220915_20220915_1054/Liga%20de%20la%20Justicia%20Perdici%C3%B3n.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Paradoja Del Tiempo 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jOIH3wCtz3y4DonPDoHqSz0VjDj.jpg" group-title="ANIMACIÓN",La Liga De La Justicia Paradoja Del Tiempo 2013 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Paradoja Del Tiempo 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jOIH3wCtz3y4DonPDoHqSz0VjDj.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Paradoja Del Tiempo 2013 (Animación)
 http://archive.org/download/202209_20220915_1029/Liga%20De%20La%20Justicia%20La%20Paradoja%20Del%20Tiempo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La liga De La Justicia Y Jovenes Titanes Union En Accion 2016" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6cUDnsWQSeknDeasWpq59WNjWjd.jpg" group-title="ANIMACIÓN",La liga De La Justicia Y Jovenes Titanes Union En Accion 2016 (Animación)
+#EXTINF:-1 tvg-id="" tvg-name="La liga De La Justicia Y Jovenes Titanes Union En Accion 2016" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6cUDnsWQSeknDeasWpq59WNjWjd.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La liga De La Justicia Y Jovenes Titanes Union En Accion 2016 (Animación)
 http://archive.org/download/20220915_20220915_1102/Liga%20de%20la%20Justicia%20y%20J%C3%B3venes%20Titanes%20Uni%C3%B3n%20en%20acci%C3%B3n.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Maldicion 1999" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdreKLCRyBpHE7iT0RFo5De3jjFg.jpg&w=256&q=75" group-title="TERROR",La Maldicion 1999 (Terror)
+#EXTINF:-1 tvg-id="" tvg-name="La Maldicion 1999" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdreKLCRyBpHE7iT0RFo5De3jjFg.jpg&w=256&q=75" group-title="⭐⭐PELICULAS TERROR⭐⭐",La Maldicion 1999 (Terror)
 http://archive.org/download/202210_20221006/la%20maldici%C3%B3n.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Mansion Embrujada 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/quVOyQALS1JVOoiGekllFfEfwwD.jpg" group-title="FANTASÍA",La Mansion Embrujada 2003 (Fantasía)
+#EXTINF:-1 tvg-id="" tvg-name="La Mansion Embrujada 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/quVOyQALS1JVOoiGekllFfEfwwD.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",La Mansion Embrujada 2003 (Fantasía)
 http://archive.org/download/202210_20221006_1103/la%20mansi%C3%B3n%20embrujada.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Maquina Del Tiempo 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ir4elJEr8mbCBIMFgsQG6m01aS1.jpg" group-title="CIENCIA FICCIÓN",La Maquina Del Tiempo 2002 (Ciencia Ficcion)
+#EXTINF:-1 tvg-id="" tvg-name="La Maquina Del Tiempo 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ir4elJEr8mbCBIMFgsQG6m01aS1.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",La Maquina Del Tiempo 2002 (Ciencia Ficcion)
 http://archive.org/download/20220925_20220925_0414/La%20m%C3%A1quina%20del%20tiempo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Mujer Maravilla 2009" tvg-logo="https://pelisimg.online/cover/la-mujer-maravilla.jpg" group-title="ANIMACIÓN",La Mujer Maravilla 2009 (Animimación)
+#EXTINF:-1 tvg-id="" tvg-name="La Mujer Maravilla 2009" tvg-logo="https://pelisimg.online/cover/la-mujer-maravilla.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Mujer Maravilla 2009 (Animimación)
 http://archive.org/download/202209_20220914/La%20Mujer%20Maravilla.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Oveja Shaun El Vuelo Antes De Navidad 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pnLPGa9OGBsY61Xtp15cp7rXW1i.jpg" group-title="ANIMACIÓN",La Oveja Shaun El Vuelo Antes De Navidad 2021 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="La Oveja Shaun El Vuelo Antes De Navidad 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pnLPGa9OGBsY61Xtp15cp7rXW1i.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Oveja Shaun El Vuelo Antes De Navidad 2021 (Animacion)
 http://archive.org/download/2021_20220914/La%20oveja%20Shaun%20El%20vuelo%20antes%20de%20Navidad%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Princesa Y El Monstruo 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j14T7JfdN0XEgLao56aYKQoGwq7.jpg" group-title="ANIMACIÓN",La Princesa Y El Monstruo 2022 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="La Princesa Y El Monstruo 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j14T7JfdN0XEgLao56aYKQoGwq7.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Princesa Y El Monstruo 2022 (Animacion)
 http://archive.org/download/20220914_20220914_1134/La%20princesa%20y%20el%20monstruo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Las Aventuras De Winnie Pooh 1977" tvg-logo="https://pelisimg.online/cover/la-gran-aventura-de-winnie-the-pooh.jpg" group-title="ANIMACIÓN",Las Aventuras De Winnie Pooh 1977 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Las Aventuras De Winnie Pooh 1977" tvg-logo="https://pelisimg.online/cover/la-gran-aventura-de-winnie-the-pooh.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Las Aventuras De Winnie Pooh 1977 (Animacion)
 http://archive.org/download/1977_20221006/las%20aventuras%20de%20Winnie%20de%20Pooh%201977.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Las Ventajas De Ser Invicible 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vjWqQAe4cYdzDuqO4U0kiN7qO4r.jpg" group-title="DRAMA",Las Ventajas De Ser Invicible 2012 (Drama)
+#EXTINF:-1 tvg-id="" tvg-name="Las Ventajas De Ser Invicible 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vjWqQAe4cYdzDuqO4U0kiN7qO4r.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Las Ventajas De Ser Invicible 2012 (Drama)
 http://archive.org/download/20220925_20220925_0427/Las%20ventajas%20de%20ser%20invisible.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Lilo Y Stich 2 Stich En Corto Circuito 2005" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fo3xLpfK6cmWUpxw9ZwHPH8XizLz.jpg&w=256&q=75" group-title="ANIMACIÓN",Lilo Y Stich 2 Stich En Corto Circuito 2005 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Lilo Y Stich 2 Stich En Corto Circuito 2005" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fo3xLpfK6cmWUpxw9ZwHPH8XizLz.jpg&w=256&q=75" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Lilo Y Stich 2 Stich En Corto Circuito 2005 (Animacion)
 http://archive.org/download/20220915_20220915_1119/Lilo%20%26%20Stitch%202%20El%20efecto%20del%20defecto.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde Primer Vuelo 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pEreGSA55Jjky2RBZsj3vgGM96U.jpg" group-title="ANIMACIÓN",Linterna Verde Primer Vuelo 2009 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde Primer Vuelo 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pEreGSA55Jjky2RBZsj3vgGM96U.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Linterna Verde Primer Vuelo 2009 (Animacion)
 http://archive.org/download/20220916_20220916_1105/Linterna%20Verde%20Primer%20Vuelo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde Caballeros Esmeralda 2011" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pqKF9xBXPRxwyHK7dyagnsIBcPT.jpg" group-title="ANIMACIÓN",Linterna Verde Caballeros Esmeralda 2011 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde Caballeros Esmeralda 2011" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pqKF9xBXPRxwyHK7dyagnsIBcPT.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Linterna Verde Caballeros Esmeralda 2011 (Animacion)
 http://archive.org/download/20220916_20220916_1057/Linterna%20Verde%20Caballeros%20Esmeralda.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Los Croods Una Nueva Era 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5uMWKEmegf5aTJnp1u98JF4QerP.jpg" group-title="ANIMACIÓN",Los Croods Una Nueva Era 2020 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods Una Nueva Era 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5uMWKEmegf5aTJnp1u98JF4QerP.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Los Croods Una Nueva Era 2020 (Animacion)
 http://archive.org/download/2020_202209/Los%20Croods%20Una%20nueva%20era%202020.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Lou 2022" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdjM2s4wSaATn4jVB33cV05PEbV7.jpg&w=256&q=75" group-title="SUSPENSO",Lou 2022 (Suspenso)
+#EXTINF:-1 tvg-id="" tvg-name="Lou 2022" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdjM2s4wSaATn4jVB33cV05PEbV7.jpg&w=256&q=75" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Lou 2022 (Suspenso)
 http://archive.org/download/2022_20220927/Lou%202022.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Lucy 2014" tvg-logo="https://image.tmdb.org/t/p/original/uy2TvHFwgKk6UzxxKnPsLkbQwTt.jpg" group-title="ACCIÓN",Lucy 2014 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Lucy 2014" tvg-logo="https://image.tmdb.org/t/p/original/uy2TvHFwgKk6UzxxKnPsLkbQwTt.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Lucy 2014 (Accion)
 http://archive.org/download/20220925_20220925_1031/Lucy.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Maquia Una Historia De Amor Eterno 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg" group-title="ANIME",Maquia Una Historia De Amor Eterno 2018 (Anime)
+#EXTINF:-1 tvg-id="" tvg-name="Maquia Una Historia De Amor Eterno 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Maquia Una Historia De Amor Eterno 2018 (Anime)
 http://archive.org/download/202209_20220925/Maquia%20una%20historia%20de%20amor%20eterno.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Marianne Y La Pocima Del Amor 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7LhOt6vzoCFYBXKUjlAe3iV28tP.jpg" group-title="ANIMACIÓN",Marianne Y La Pocima Del Amor 2015 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Marianne Y La Pocima Del Amor 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7LhOt6vzoCFYBXKUjlAe3iV28tP.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Marianne Y La Pocima Del Amor 2015 (Animacion)
 http://archive.org/download/2017_20220916/Marianne%20y%20la%20p%C3%B3cima%20del%20amor%202017.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mas Alla De La Luna 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u7wYZzjhBzhfS6QsvrjVKi7v0MO.jpg" group-title="ANIMACIÓN",Mas Alla De La Luna 2020 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Mas Alla De La Luna 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u7wYZzjhBzhfS6QsvrjVKi7v0MO.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Mas Alla De La Luna 2020 (Animacion)
 http://archive.org/download/2020_202209_202209/M%C3%A1s%20all%C3%A1%20de%20la%20Luna%202020.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Mi Amigo El Dragon 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xnLvLfgLVaAM7Zy21MobR3giKJi.jpg" group-title="ANIMACIÓN",Mi Amigo El Dragon 1997 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Mi Amigo El Dragon 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xnLvLfgLVaAM7Zy21MobR3giKJi.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Mi Amigo El Dragon 1997 (Animacion)
 http://archive.org/download/mi-amigo-el-dragon/mi%20amigo%20el%20dragon.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Oceano De Fuego 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xkjNgLJREoRN1bRRNc4Ahd41Kcn.jpg" group-title="AVENTURA",Oceano De Fuego 2004 (Aventura)
+#EXTINF:-1 tvg-id="" tvg-name="Oceano De Fuego 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xkjNgLJREoRN1bRRNc4Ahd41Kcn.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Oceano De Fuego 2004 (Aventura)
 http://archive.org/download/20220918_20220918_1354/Oc%C3%A9ano%20de%20fuego.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Padre No Hay Mas Que Uno 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="COMEDIA",Padre No Hay Mas Que Uno 2019 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Padre No Hay Mas Que Uno 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Padre No Hay Mas Que Uno 2019 (Comedia)
 http://archive.org/download/02209_202209/Padre%20no%20hay%20m%C3%A1s%20que%20uno.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Padre No Hay Mas Que Uno 2 La Llegada De La Suegra 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7MjODwcPV5tAEa1zlje9N4gReGS.jpg" group-title="COMEDIA",Padre No Hay Mas Que Uno 2 La Llegada De La Suegra 2020 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Padre No Hay Mas Que Uno 2 La Llegada De La Suegra 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7MjODwcPV5tAEa1zlje9N4gReGS.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Padre No Hay Mas Que Uno 2 La Llegada De La Suegra 2020 (Comedia)
 http://archive.org/download/20220927_20220927_0352/Padre%20no%20hay%20m%C3%A1s%20que%20uno%202%20La%20llegada%20de%20la%20suegra.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Perfect Blue 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg" group-title="COMEDIA",Perfect Blue 1997 (Anime)Castellano
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Blue 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Perfect Blue 1997 (Anime)Castellano
 http://archive.org/download/202210_202210/perfect%20blue.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pinocho 1940" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/th4zcMSPbdhDMdCglCcZIjDkWLd.jpg" group-title="ANIMACIÓN",Pinocho 1940 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho 1940" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/th4zcMSPbdhDMdCglCcZIjDkWLd.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pinocho 1940 (Animacion)
 http://archive.org/download/1940_202209/Pinocho1940.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Planeta Hulk 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dyu6DJSNWnEWxLnFlFkWFAgF9X9.jpg" group-title="ANIME",Planeta Hulk 2010 (Anime)
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Hulk 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dyu6DJSNWnEWxLnFlFkWFAgF9X9.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Planeta Hulk 2010 (Anime)
 http://archive.org/download/20220917_20220917_0126/Planet%20Hulk.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 1 1995" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="ANIMACIÓN",Pocahontas 1 1995 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 1 1995" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pocahontas 1 1995 (Animacion)
 http://archive.org/download/202209_20220926/Pocahontas.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 2 1998" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" group-title="ANIMACIÓN",Pocahontas 2 1998 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 2 1998" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pocahontas 2 1998 (Animacion)
 http://archive.org/download/20220926_20220926_0400/Pocahontas%202.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Pokemon The Arceus Chronicles 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uUg9mLGlOVFYOSsUPWSOuksUAxz.jpg" group-title="ANIME",Pokemon The Arceus Chronicles 2022 (Anime)
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon The Arceus Chronicles 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uUg9mLGlOVFYOSsUPWSOuksUAxz.jpg" group-title="⭐⭐PELICULAS ANIME",Pokemon The Arceus Chronicles 2022 (Anime)
 http://archive.org/download/2022_20220927_202209/Pokemon%20The%20Arceus%20Chronicles%202022.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Rabbids La Invasion Especial Mision A Marte 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7arpOTIATZAcSzTLWhYyyGPGf5v.jpg" group-title="ANIMACIÓN",Rabbids La Invasion Especial Mision A Marte 2021 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Rabbids La Invasion Especial Mision A Marte 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7arpOTIATZAcSzTLWhYyyGPGf5v.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Rabbids La Invasion Especial Mision A Marte 2021 (Animacion)
 http://archive.org/download/2021_20220917/Rabbids%20la%20invasi%C3%B3n%20Especial%20Misi%C3%B3n%20a%20Marte%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Rampage Devastacion 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2aTsJIyw762XO51fcGa7couMygv.jpg" group-title="ACCIÓN",Rampage Devastacion 2018 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Rampage Devastacion 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2aTsJIyw762XO51fcGa7couMygv.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Rampage Devastacion 2018 (Accion)
 http://archive.org/download/202209_20220926_0924/Rampage.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Rango 2011" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/9p73gp8ugku8n1YNhO0dYryF1ll.jpg" group-title="ANIMACIÓN",Rango 2011 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Rango 2011" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/9p73gp8ugku8n1YNhO0dYryF1ll.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Rango 2011 (Animacion)
 http://archive.org/download/2011_202209/Rango%202011.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Rat Race 2001" tvg-logo="https://image.tmdb.org/t/p/w185/vHBS0zjiWdYssTSCupGuw8WgyWJ.jpg" group-title="COMEDIA",Rat Race 2001 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Rat Race 2001" tvg-logo="https://image.tmdb.org/t/p/w185/vHBS0zjiWdYssTSCupGuw8WgyWJ.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Rat Race 2001 (Comedia)
 http://archive.org/download/20221004_20221004_1107/el%20mundo%20est%C3%A1%20loco%20loco.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock Dog 2 Renace Una Estrella 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bi2Axcg9qJyeOExi3hOsycV7kZC.jpg" group-title="ANIMACIÓN",Rock Dog 2 Renace Una Estrella 2021 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Rock Dog 2 Renace Una Estrella 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bi2Axcg9qJyeOExi3hOsycV7kZC.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Rock Dog 2 Renace Una Estrella 2021 (Animacion)
 http://archive.org/download/2021_20220917_202209/Rock%20Dog%202%20Renace%20Una%20Estrella%202021.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shaun El Cordero La Pelicula 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nlAKsbhOTw91dlAqpj1T4PCDJIk.jpg" group-title="ANIMACIÓN",Shaun El Cordero La Pelicula 2015 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Shaun El Cordero La Pelicula 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nlAKsbhOTw91dlAqpj1T4PCDJIk.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Shaun El Cordero La Pelicula 2015 (Animacion)
 http://archive.org/download/20220926_20220926_0940/Shaun%20el%20Cordero%20La%20Pel%C3%ADcula.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shaun El Cordero La Pelicula Granjaguedon 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sZMSXJGwlL14JJRwDYkXEWmOnEC.jpg" group-title="ANIMACIÓN",Shaun El Cordero La Pelicula Granjaguedon 2019 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Shaun El Cordero La Pelicula Granjaguedon 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sZMSXJGwlL14JJRwDYkXEWmOnEC.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Shaun El Cordero La Pelicula Granjaguedon 2019 (Animacion)
 http://archive.org/download/20220926_20220926_0932/Shaun%20el%20cordero%20La%20pel%C3%ADcula%20-%20Granjaguedon.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Shutter El Fotografo 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rebJWVTb0Wg39MY9cmCM0mPlTgJ.jpg" group-title="SUSPENSO",Shutter El Fotografo 2004 (Suspenso)
+#EXTINF:-1 tvg-id="" tvg-name="Shutter El Fotografo 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rebJWVTb0Wg39MY9cmCM0mPlTgJ.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Shutter El Fotografo 2004 (Suspenso)
 http://archive.org/download/202210_20221004_1047/el%20fot%C3%B3grafo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Superman Batman Apocalipsis" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jOFiLDC1fcRHDq5WSgt2zKAjTfh.jpg" group-title="ANIMACIÓN",Superman Batman Apocalipsis (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Superman Batman Apocalipsis" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jOFiLDC1fcRHDq5WSgt2zKAjTfh.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Superman Batman Apocalipsis (Animacion)
 http://archive.org/download/20220917_20220917_0234/SupermanBatman%20Apocalipsis.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Superman Batman Enemigos Publicos" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qYckc7dwtuIUlFEx1lallXFfYka.jpg" group-title="ANIMACIÓN",Superman Batman Enemigos Publicos (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Superman Batman Enemigos Publicos" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qYckc7dwtuIUlFEx1lallXFfYka.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Superman Batman Enemigos Publicos (Animacion)
 http://archive.org/download/20220917_20220917_0245/SupermanBatman%20Enemigos%20P%C3%BAblicos.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Superman Sin Limites" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yNuYHiZTr1zl4qPcTVXTW8QAxT6.jpg" group-title="ANIMACIÓN",Superman Sin Limites (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Superman Sin Limites" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yNuYHiZTr1zl4qPcTVXTW8QAxT6.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Superman Sin Limites (Animacion)
 http://archive.org/download/20220917_20220917_0217/Superman%20Sin%20L%C3%ADmites.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Tan Perversa Como El Diablo 2001" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Ta6694HxrPCHrOQgDox6DtoRxX.jpg" group-title="COMEDIA",Tan Perversa Como El Diablo 2001 (Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="Tan Perversa Como El Diablo 2001" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Ta6694HxrPCHrOQgDox6DtoRxX.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Tan Perversa Como El Diablo 2001 (Comedia)
 http://archive.org/download/20220926_20220926_0959/Tan%20perversa%20como%20el%20diablo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Tarzan 1 1999" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg" group-title="ANIMACIÓN",Tarzan 1 1999 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan 1 1999" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Tarzan 1 1999 (Animacion)
 http://archive.org/download/20220926_20220926_1009/Tarzan.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Tarzan 2 2005" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/VFm7cqSUrv6mCW6uFIJFhSZLjq.jpg" group-title="ANIMACIÓN",Tarzan 2 2005 (Animacion)
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan 2 2005" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/VFm7cqSUrv6mCW6uFIJFhSZLjq.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Tarzan 2 2005 (Animacion)
 http://archive.org/download/202209_20220926_0952/Tarzan%202.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Terremoto Falla De San Andres 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uC4uhJuyOxZQhMcJoKQWbe667Sx.jpg" group-title="ACCIÓN",Terremoto Falla De San Andres 2015 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto Falla De San Andres 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uC4uhJuyOxZQhMcJoKQWbe667Sx.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Terremoto Falla De San Andres 2015 (Accion)
 http://archive.org/download/202209_20220926_1019/Terremoto%20La%20Falla%20de%20San%20Andr%C3%A9s.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Tesis 1996" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2f6dOp3yjLtABEDqE6xuOAoLftF.jpg" group-title="SUSPENSO",Tesis 1996 (Suspenso)
+#EXTINF:-1 tvg-id="" tvg-name="Tesis 1996" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2f6dOp3yjLtABEDqE6xuOAoLftF.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Tesis 1996 (Suspenso)
 http://archive.org/download/202209_20220926_1030/tesis.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Tren Bala 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg" group-title="ACCIÓN",Tren Bala 2022 (Accion)
+#EXTINF:-1 tvg-id="" tvg-name="Tren Bala 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Tren Bala 2022 (Accion)
 http://archive.org/download/2022_202209_20220927/Tren%20Bala%202022.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Un Hombre Lobo Americano En Paris 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" group-title="TERROR",Un Hombre Lobo Americano En Paris 1997 (Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Un Hombre Lobo Americano En Paris 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Un Hombre Lobo Americano En Paris 1997 (Terror)
 http://archive.org/download/20220927_20220927_0433/Un%20Hombre%20Lobo%20Americano%20en%20Par%C3%ADs.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Un Lugar En Silencio 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" group-title="SUSPENSO",Un Lugar En Silencio 2018 (Suspenso)
+#EXTINF:-1 tvg-id="" tvg-name="Un Lugar En Silencio 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Un Lugar En Silencio 2018 (Suspenso)
 http://archive.org/download/202209_20220926_1041/Un%20lugar%20en%20silencio.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" group-title="AVENTURA",Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012 (Aventura)
+#EXTINF:-1 tvg-id="" tvg-name="Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012 (Aventura)
 http://archive.org/download/20220926_20220926_1052/Viaje%20al%20Centro%20de%20la%20Tierra%202.mp4
-
 #EXTINF:-1,Series
 http://gluvu.atspace.cc/Series
 
