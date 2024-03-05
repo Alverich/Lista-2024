@@ -819,6 +819,9 @@ http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT",ALINE RIOS AS PANTERAS (Assine nossa LISTA PREMIUM. WhatsApp(47)99626 5594)
 https://spankbang.com/stream/Mjg2Njc5MQ.t3I-1i4WgGxnHF_AlgcL8h03b1I.mp4
 
+#EXTINF:-1 tvg-id="Playboy HD" tvg-name="Playboy" tvg-logo="https://iconape.com/wp-content/files/fy/286176/svg/286176.svg" group-title="ADULT",Playboy 
+http://38.41.8.1:8000/play/a0b7
+
 
 #EXTINF:-1,:::::: Peliculas Variadas ::::::
 
@@ -1109,6 +1112,8 @@ http://offshore.lat:8080/play/WpxINDtvNxxrgQ3iHOy8bK4FnH6p4CAmMGSEZRkeKurhYxq2OW
 
 #EXTINF:-1 tvg-id="" tvg-name="A.I Inteligencia Artificial 2001" tvg-logo="https://dicpelis.com/wp-content/uploads/2021/07/A_I_Artificial_Intelligence_poster_espaol.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",A.I Inteligencia Artificial 2001
 http://archive.org/download/202209_20220918_1346/Inteligencia%20artificial.mp4
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Abril Y El Mundo Extraordinario 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4o4E1Jyllx9J5TOYmChsS4Jjvvs.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",A.I Abril Y El Mundo Extraordinario 2015 (AnimaciÃ³n)
 http://archive.org/download/20221002_20221002_0722/abril%20y%20el%20mundo%20extraordinario.mp4
@@ -1406,6 +1411,7 @@ http://archive.org/download/202209_20220926_1041/Un%20lugar%20en%20silencio.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012 (Aventura)
 http://archive.org/download/20220926_20220926_1052/Viaje%20al%20Centro%20de%20la%20Tierra%202.mp4
+
 #EXTINF:-1,Series
 http://gluvu.atspace.cc/Series
 
@@ -1426,70 +1432,70 @@ http://gluvu.atspace.cc/avances/doramas
 
 #EXTINF:-1,Wii Avances (Peliculas)
 
-#EXTINF:-1,Intruso en la Noche (1989), (Terror,Slasher)
+#EXTINF:-1 tvg-id="" tvg-name="Intruso en la Noche (1989)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pib25gFtNCShcyRpFvp1jrcJ1Xk.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Intruso en la Noche (1989) (Terror Slasher)
 http://archive.org/download/75JK8H40/L2UI44X2.mkv
 
-#EXTINF:-1,La Abuela (2022), (Terror,ThrillerPsicológico)
+#EXTINF:-1 tvg-id="" tvg-name="La Abuela (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5jZeTJ03kOjOezATP0tY1FFQHGb.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",La Abuela (2022) (Terror ThrillerPsicológico)
 http://archive.org/download/75JK8H40/80WTKQ03.mkv
 
-#EXTINF:-1,Jaula (2022) (Terror,Intriga)
+#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="https://pics.filmaffinity.com/jaula-107658810-mmed.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Jaula (2022) (Terror Intriga)
 http://archive.org/download/75JK8H40/3PCA8286.mkv
 
-#EXTINF:-1,Cerdita (2022) (Suspenso,Drama,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Cerdita (2022)" tvg-logo="https://pics.filmaffinity.com/cerdita-167665190-mmed.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Cerdita (2022) Suspenso Drama Terror
 http://archive.org/download/75JK8H40/9GI0FQ3P.mkv
 
-#EXTINF:-1,Pesadilla en la Calle Elm (1984,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm (1984)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm (1984 Terror)
 http://archive.org/download/31S646NX/A15M2SD1.mkv
 
-#EXTINF:-1,Pesadilla en la Calle Elm 2 - La Venganza de Freddy (1985,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 2 - La Venganza de Freddy (1985)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/54JsC5uy6l9HTeDmW1DGQ76dsc4.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 2 - La Venganza de Freddy (1985 Terror)
 http://archive.org/download/31S646NX/A15M2SD2.mkv
 
-#EXTINF:-1,Pesadilla en la Calle Elm 3 - Los Guerreros del Sueño (1987,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 3 - Los Guerreros del Sueño (1987)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ekWAcoQLZuXKh96tDJTQe5SFBsd.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 3 - Los Guerreros del Sueño (1987 Terror)
 http://archive.org/download/31S646NX/A15M2SD3.mkv
 
-#EXTINF:-1,Pesadilla en la Calle Elm 4 - El Amo de los Sueños (1988,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 4 - El Amo de los Sueños (1988)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/waLzjguZwn83nCtSuG22l87eHZx.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 4 - El Amo de los Sueños (1988 Terror)
 http://archive.org/download/31S646NX/A15M2SD4.mkv
 
-#EXTINF:-1,Pesadilla en la Calle Elm 5 - El Niño de los Sueños (1989,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 5 - El Niño de los Sueños (1989)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUEPnN7ZkW3buaTDmosFubwC7ZH.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 5 - El Niño de los Sueños (1989 Terror)
 http://archive.org/download/T4G52W3E/A15M2SD5.mkv
 
-#EXTINF:-1,Pesadilla en la Calle Elm 6 - La Muerte de Freddy (1991,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 6 - La Muerte de Freddy (1991)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bqFsmwVUKKk1gpSUVZW8RLULYDb.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 6 - La Muerte de Freddy (1991 Terror)
 http://archive.org/download/T4G52W3E/A15M2SD6.mkv
 
-#EXTINF:-1,La Nueva Pesadilla de Wes Craven (1994,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="La Nueva Pesadilla de Wes Craven (1994)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sLLYfNEruiG8OTdF4MOKHfU7udi.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",La Nueva Pesadilla de Wes Craven (1994 Terror)
 http://archive.org/download/T4G52W3E/A15M2SD7.mkv
 
-#EXTINF:-1,Freddy Contra Jason (2003,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Freddy Contra Jason (2003)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Freddy Contra Jason (2003 Terror)
 http://archive.org/download/10JM8B3A/A15M2SD8.mkv
 
-#EXTINF:-1,Pesadilla en la Calle Elm (Remake) (2010,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm (Remake 2010)" tvg-logo="https://pics.filmaffinity.com/a_nightmare_on_elm_street-511303390-mmed.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm (Remake) (2010 Terror)
 http://archive.org/download/10JM8B3A/A15M2SD9.mkv
 
-#EXTINF:-1,Halloween: La Noche Final (2022) (Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: La Noche Final (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9J2CQk79hu9oiLUUbODq640eVYe.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Halloween: La Noche Final (2022) (Terror)
 http://archive.org/download/H5FDK6D1/JA0D66PB.mkv
 
-#EXTINF:-1,Puppet Master (1989) (Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Puppet Master (El amo de las marionetas) (1989)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fBLLSGEvo2FQhCJnClbW8AmKpP2.jpg" group-title="⭐⭐SAGA PUPPET MASTER⭐⭐",Puppet Master (El amo de las marionetas) (1989) (Terror)
 http://archive.org/download/6se7-1w91/6SE71W91.mkv
 
-#EXTINF:-1,Puppet Master II (1990) (Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Puppet Master II (1990)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iUUriLJPEhVAVPADGdIZktTrKQW.jpg" group-title="⭐⭐SAGA PUPPET MASTER⭐⭐",Puppet Master II (1990) (Terror)
 http://archive.org/download/kt19-9b5m/KT199B5M.mkv
 
-#EXTINF:-1,Puppet Master III (1991) (Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Puppet Master III (1991)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rlNO2A1VZbe70UrqgQ55cDzJ6UA.jpg" group-title="⭐⭐SAGA PUPPET MASTER⭐⭐",Puppet Master III (1991) (Terror)
 http://archive.org/download/r5zv-n9h5-fx/R5ZVN9H5FX.mkv
 
-#EXTINF:-1,Dolls (1987) (Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Dolls Muñecos malditos (1987)" tvg-logo="https://static.filmin.es/images/media/9689/1/poster_0_3_210x0.webp" group-title="⭐⭐PELICULAS TERROR⭐⭐",Dolls Muñecos malditos (1987) (Terror)
 http://archive.org/download/Q93PH38AB/Q1W9DK48.mkv
 
-#EXTINF:-1,Scooby-Doo en la Isla de los Zombies (1998) (Animación,Comedia,Terror)
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo en la Isla de los Zombies (1998)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/la1xrRWrs8lmrxWNnho92ivgRmT.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Scooby-Doo en la Isla de los Zombies (1998) (Animación Comedia Terror)
 http://archive.org/download/FQL0022G/6FZK05U6.mkv
 
-#EXTINF:-1,¡Feliz Halloween, Scooby-Doo! (2020) (Animación,Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="¡Feliz Halloween, Scooby-Doo! (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vDKCG4Qt8Tm0ot5zOVSVwZRR3Yc.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",¡Feliz Halloween, Scooby-Doo! (2020) (Animación,Comedia)
 http://archive.org/download/FQL0022G/N7B01LSZ.mkv
 
-#EXTINF:-1,De la Nada: Scooby-Doo Conoce a Coraje, el Perro Cobarde (2021) (Animación,Comedia)
+#EXTINF:-1 tvg-id="" tvg-name="De la Nada: Scooby-Doo Conoce a Coraje, el Perro Cobarde (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g9cyiDTw5SQhbI7SRDjBUMr14kV.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",De la Nada: Scooby-Doo Conoce a Coraje, el Perro Cobarde (2021) (Animación,Comedia)
 http://archive.org/download/FQL0022G/L52435M4.mkv
 
-#EXTINF:-1,¡Scooby-Doo! Dulce o Travesura (2022) 
+#EXTINF:-1 tvg-id="" tvg-name="¡Scooby-Doo! Dulce o Travesura (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jQnGmbS8Pqukn0hM91Fv57TsodG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",¡Scooby-Doo! Dulce o Travesura (2022) 
 http://archive.org/download/FQL0022G/HJ00YK08.mkv
 
 #EXTINF:-1,Jeepers Creepers 3 (2017) (Terror)
@@ -1543,11 +1549,6 @@ http://gluvu.atspace.cc/Wii%20Studio2
 #EXTINF:-1,Wii Youtube
 http://gluvu.atspace.cc/Wii%20Youtube2
 
-
-
-
-#EXTINF:-1 tvg-id="Playboy HD" tvg-name="Playboy" tvg-logo="https://iconape.com/wp-content/files/fy/286176/svg/286176.svg" group-title="ADULT",Playboy 
-http://38.41.8.1:8000/play/a0b7
 
 
 #EXTINF:-1,:::::: Series Variadas ::::::
