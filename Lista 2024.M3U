@@ -102,9 +102,6 @@ https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 #EXTINF:-1 tvg-id="TDCLA" tvg-name="HD | DISCOVERY CHANNEL LAT" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | DISCOVERY CHANNEL LAT
 http://odenfull.co:2086/Nelson2023/Nelson1234/104265
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://www.vhv.rs/dpng/d/510-5104898_discovery-hd-logo-png-transparent-png.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | DISCOVERY CHANNEL
-http://paputv.xyz:8080/elvis12345/elvis12345/443399
-
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="HD | Discovery Channel" tvg-logo="https://i.pinimg.com/736x/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HD | Discovery Channel SD
 http://38.41.8.1:8000/play/a07l
 
@@ -168,50 +165,51 @@ http://38.41.8.1:8000/play/a00u
 #EXTINF:-1 tvg-id="ESPN 7 HD" tvg-name="HD | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ESPN 7
 http://38.41.8.1:8000/play/a01d
 
-#EXTINF:-1 tvg-id="ZONA TUDN HD" tvg-name="HD | ZONA TUDN" tvg-logo="https://images.vix.com/prd/channel-landscape/64dd342490e3af57564b863e/feeadfa6920a72d4130bfc7604ba5937?tr=w-1200,h-627,f-jpeg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ZONA TUDN MX ᴴᴰ 
+#EXTINF:-1 tvg-id="ZONA TUDN HD" tvg-name="HD | ZONA TUDN" tvg-logo="https://images.vix.com/prd/channel-landscape/64dd342490e3af57564b863e/feeadfa6920a72d4130bfc7604ba5937?tr=w-1200h-627f-jpeg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | ZONA TUDN MX ᴴᴰ 
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="TUDN MX HD" tvg-name="HD | TUDN MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | TUDN MX ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/443217
+#EXTINF:-1 tvg-id="TUDN USA HD" tvg-name="HD | TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",HD | TUDN USA ᴴᴰ
+http://odenfull.co:2086/Nelson2023/Nelson1234/210629
 
-#EXTINF:-1 tvg-id="TUDN USA HD" tvg-name="HD | TUDN USA" tvg-logo="http://odenfull.co:2086/images/Bp-vRtZEje6kFpdMZzWxZ4-AN4DvFfO8YD6hbBnDZg8tkf7hBRh2R8Q5zKJVMacSRnqncuK1D-0y4LJAPnmYK7eCFCh2qzGLyfRllgm2jVE.png" group-title="|| DEP || Liga Mexicana || S ||", (ONLINE) | ZONA TUDN MX ᴴᴰ
+#EXTINF:-1 tvg-id="TUDN USA HD" tvg-name="HD | TUDN USA" tvg-logo="http://odenfull.co:2086/images/Bp-vRtZEje6kFpdMZzWxZ4-AN4DvFfO8YD6hbBnDZg8tkf7hBRh2R8Q5zKJVMacSRnqncuK1D-0y4LJAPnmYK7eCFCh2qzGLyfRllgm2jVE.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | TUDN USA ᴴᴰ
 http://odenfull.co:2086/Nelson2023/Nelson1234/210627
 
-#EXTINF:-1 tvg-id="TUDN HD" tvg-name="HD | ZONA TUDN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="|| DEP || Liga Mexicana || S ||", (ONLINE) 01 | TUDN MX ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/443217
-
-#EXTINF:-1 tvg-id="ZONA TUDN HD" tvg-name="HD | ZONA TUDN" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="|| DEP || Liga Mexicana || S ||", (ONLINE) 02 | TUDN USA ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/443218
-
-#EXTINF:-1 tvg-id="ZONA TUDN HD" tvg-name="HD | ZONA TUDN" tvg-logo="https://images.vix.com/prd/channel-landscape/64dd342490e3af57564b863e/feeadfa6920a72d4130bfc7604ba5937?tr=w-1200,h-627,f-jpeg" group-title="|| DEP || Liga Mexicana || S ||", (ONLINE) 03 | ZONA TUDN MX ᴴᴰ 
+#EXTINF:-1 tvg-id="ZONA TUDN HD" tvg-name="HD | ZONA TUDN" tvg-logo="https://images.vix.com/prd/channel-landscape/64dd342490e3af57564b863e/feeadfa6920a72d4130bfc7604ba5937?tr=w-1200h-627f-jpeg" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | ZONA TUDN MX ᴴᴰ 
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 1 HD" tvg-name="HD | Fox Sports 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_deportes-mediano.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX DEPORTES ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/446241
+#EXTINF:-1 tvg-id="TUDNC" tvg-name="HD | TUDN" tvg-logo="http://odenfull.co:2086/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj4wHDQ4MEC7WSVlz3MmJ9azu-SYwndEWHHmLrActKtYFGHWUsLO8WpRDhjG3L5xeWRX8y9yYwJ5L4Xy5-xEdQBg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | TUDN ᴴᴰ
+http://odenfull.co:2086/Nelson2023/Nelson1234/212850
 
-#EXTINF:-1 tvg-id="Fox Sports 1 HD" tvg-name="HD | Fox Sports 1" tvg-logo="https://e7.pngegg.com/pngimages/335/14/png-clipart-fox-sports-3-fox-sports-1-logo-television-channel-fox-headset-logo-text-trademark.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | Fox Sports 1 HD
-http://paputv.xyz:8080/elvis12345/elvis12345/446280
+#EXTINF:-1 tvg-id="TIGO" tvg-name="HD | TIGO SPORTS" tvg-logo="https://panel.budtv-ultra.com/posters/1643237886331.png" group-title="PARAGUAY",PY:TIGO SPORTS
+http://odenfull.co:2086/Nelson2023/Nelson1234/213244
+#EXTINF:-1 tvg-id="MOLIGA" tvg-name="MOVISTAR  LA LIGA" tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | MOVISTAR  LA LIGA ᴴᴰ
+http://odenfull.co:2086/Nelson2023/Nelson1234/213295
+
+#EXTINF:-1 tvg-id="" tvg-name="HD | ESPN 4" tvg-logo="https://static.wikia.nocookie.net/programacao/images/d/dc/ESPN_4_Logo_tipo.jpg/revision/latest?cb=20220117191627&path-prefix=pt-br" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | ESPN 4 ᴴᴰ
+
+#EXTINF:-1 tvg-id="FSALPM" tvg-name="HD | FOX SPORTS 1 MEX HD" tvg-logo="http://odenfull.co:2086/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQJK92xwZqFGMgxsT75SvhTuVTIed3e4wOO95wmlj3uVy6XCQzZ6CnGPkFVCv3TULVDGu0zY5EOya3ieNlQ9TDjfGPLttzNrlEe974_uto2c.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 1 MEX HD
+http://odenfull.co:2086/Nelson2023/Nelson1234/292197
+
+#EXTINF:-1 tvg-id="FS2CHA3" tvg-name="HD | FOX SPORTS 2 MX HD" tvg-logo="https://3.bp.blogspot.com/-9H60diyevXU/VRnyq852aDI/AAAAAAAAEXY/yg3yd-akDgA/s1600/FOX%2BSports%2B2%2Bweb.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 2 MX HD
+http://odenfull.co:2086/Nelson2023/Nelson1234/292199
+
+#EXTINF:-1 tvg-id="FOXS3A" tvg-name="HD | FOX SPORTS 3 MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 3 MX HD
+http://odenfull.co:2086/Nelson2023/Nelson1234/292201
 
 #EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="HD | Fox Sports 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20221115060704&path-prefix=vi" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | Fox Sports 2 FHD
 http://odenfull.co:2086/Nelson2023/Nelson1234/291750
 
-#EXTINF:-1 tvg-id="Fox Sports 3 HD" tvg-name="HD | Fox Sports 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 3 MX
-http://paputv.xyz:8080/elvis12345/elvis12345/446278
-
-#EXTINF:-1 tvg-id="Fox Sports Premium HD" tvg-name="HD | Fox Sports Premium" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/401954722_FOXSportsPremium2019.png.449925ebe62b906ea607038699429c8f.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS PREMIUM MX ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/446279
-
-#EXTINF:-1 tvg-id="FOX SPORTS ARG HD" tvg-name="HD | FOX SPORTS ARG" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS ARG ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/427284
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2 ARG HD" tvg-name="HD | FOX SPORTS 2 ARG" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1606.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 2 ARG ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/446274
-
-#EXTINF:-1 tvg-id="FOX SPORTS 3 ARG HD" tvg-name="HD | FOX SPORTS 3 ARG" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1607.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 3 ARG ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/446275
-
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM HD" tvg-name="HD | FOX SPORTS PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_premium_argentina-mediano.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS PREMIUM ᴴᴰ
-http://paputv.xyz:8080/elvis12345/elvis12345/446239
+http://odenfull.co:2086/Nelson2023/Nelson1234/223519
+
+#EXTINF:-1 tvg-id="FSALA" tvg-name="HD | FOX SPORTS 1 AR HD" tvg-logo="http://odenfull.co:2086/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQJK92xwZqFGMgxsT75SvhTuVTIed3e4wOO95wmlj3uVy6XCQzZ6CnGPkFVCv3TULVDGu0zY5EOya3ieNlQ9TDjfGPLttzNrlEe974_uto2c.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 1 AR HD
+http://odenfull.co:2086/Nelson2023/Nelson1234/292191
+
+#EXTINF:-1 tvg-id="FS2ARH2" tvg-name="HD | FOX SPORTS 2 AR HD" tvg-logo="http://odenfull.co:2086/images/V4SxA7nnmPChxB-xNmbG3rgy9Bg0GnKtSEjbKEh4m_-Fvhg0xvd3xH_BM4SDkALVgah0gdr3mvZrzrOCfpm31SLuDUovpvFMht4sw1uq8_3BakohxyxE6Khf7H57KmFhWvQz8uCpfTwQpIVe_fM24w.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 2 AR HD
+http://odenfull.co:2086/Nelson2023/Nelson1234/292193
+
+#EXTINF:-1 tvg-id="FOXS3A" tvg-name="HD | FOX SPORTS 3 AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX | FOX SPORTS 3 AR HD
+http://odenfull.co:2086/Nelson2023/Nelson1234/292195
 
 #EXTINF:-1 tvg-id="ESPN PLUS HD" tvg-name="HD | ESPN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",LA | ESPN PLUS HD
 http://offshore.lat:8080/play/vI9i1Cs20LAaXQntedmTm_BnWA2lgR8v-roVQHWYW1Ont3qNFJo8aNBnZo9nO5v3
@@ -243,9 +241,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HD | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="⭐ ⭐CINE PREMIUM HD⭐ ⭐",HD | HBO Family
 http://38.41.8.1:8000/play/a031
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HD | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="⭐ ⭐CINE PREMIUM HD⭐ ⭐",HD | HBO Family HD
-http://paputv.xyz:8080/elvis12345/elvis12345/444254
-
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HD | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="⭐ ⭐CINE PREMIUM HD⭐ ⭐",HD | HBO HD
 http://38.41.8.1:8000/play/a01u
 
@@ -260,9 +255,6 @@ http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HD | HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="CINE PREMIUM HD",HD | HBO XTREME
 http://38.41.8.1:8000/play/a032
-
-#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HD | HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="⭐ ⭐CINE PREMIUM HD⭐ ⭐",MX | HBO Xtreme
-http://paputv.xyz:8080/elvis12345/elvis12345/444255
 
 #EXTINF:-1 tvg-id="GOLDEN HD" tvg-name="HD | GOLDEN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Golden_2007-2010.png/revision/latest?cb=20191215191411&path-prefix=es" group-title="⭐ ⭐CINE PREMIUM HD⭐ ⭐",MX | GOLDEN FHD
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
