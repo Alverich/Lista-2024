@@ -1,62 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="01 | CASA DE LOS FAMOSOS 1" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-01/la-casa-de-los-famosos-097f88.png" group-title="Casa de los Famosos: Exclusivo!⭐️",01 | CASA DE LOS FAMOSOS
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/205636.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 1 | EURO: 2024 ¡ZZ! VIX | EXCLUSIVO HD" tvg-logo="https://i.ibb.co/3yXygb4/Dise-o-sin-t-tulo-20240617-211722-0000.png" group-title="⚽EUR⚽ 2024⚽",Evento:| 1 | EURO: EQUIPO A vs. EQUIPO B | 12:00 pm (1280) | EXCLUSIVO UHD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412730
 
-#EXTINF:-1 tvg-id="" tvg-name="02 | CASA DE LOS FAMOSOS 2" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-01/la-casa-de-los-famosos-097f88.png" group-title="Casa de los Famosos: Exclusivo!⭐️",02 | CASA DE LOS FAMOSOS 02
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/207287.ts
+#EXTINF:-1 tvg-id="CAZPES" tvg-name="Evento:| 2 | EURO: 2024 ESPN | EXCLUSIVO HD" tvg-logo="https://i.ibb.co/3yXygb4/Dise-o-sin-t-tulo-20240617-211722-0000.png" group-title="⚽EUR⚽ 2024⚽",Evento:| 2 | EURO: 2024 ESPN | EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412476
 
-#EXTINF:-1 tvg-id="" tvg-name="03 | CASA DE LOS FAMOSOS 3" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-01/la-casa-de-los-famosos-097f88.png" group-title="Casa de los Famosos: Exclusivo!⭐️",03 | CASA DE LOS FAMOSOS 03
-#EXTINF:-1 tvg-id="" tvg-name="01 | CASA GRAN HERMANO #1" tvg-logo="https://www.rionegro.com.ar/wp-content/uploads/2023/11/Gran-Hermano-1.png" group-title="Casa: Gran Hermano: ¡Exclusivo!⭐️",01 | CASA GRAN HERMANO 1
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/207289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 3 | EURO: 2024 ESPN | EXCLUSIVO HD" tvg-logo="https://i.ibb.co/3yXygb4/Dise-o-sin-t-tulo-20240617-211722-0000.png" group-title="⚽EUR⚽ 2024⚽",Evento:| 3 | EURO: 2024 ESPN | EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412477
 
-#EXTINF:-1 tvg-id="" tvg-name="02 | CASA GRAN HERMANO 2" tvg-logo="https://www.rionegro.com.ar/wp-content/uploads/2023/11/Gran-Hermano-1.png" group-title="Casa: Gran Hermano: ¡Exclusivo!⭐️",02 | CASA GRAN HERMANO 2
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/207290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 4 | EURO: 2024 ¡ZZ! VIX | EXCLUSIVO HD" tvg-logo="https://i.ibb.co/3yXygb4/Dise-o-sin-t-tulo-20240617-211722-0000.png" group-title="⚽EUR⚽ 2024⚽",Evento:| 4 | EURO: 2024 ¡ZZ! VIX | EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412729
 
-#EXTINF:-1 tvg-id="" tvg-name="03 | CASA GRAN HERMANO 3" tvg-logo="https://www.rionegro.com.ar/wp-content/uploads/2023/11/Gran-Hermano-1.png" group-title="Casa: Gran Hermano: ¡Exclusivo!⭐️",03 | CASA GRAN HERMANO 3
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/207291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 5 | EURO: 2024 1 ¡ZZ! VIX | EXCLUSIVO HD" tvg-logo="https://i.ibb.co/3yXygb4/Dise-o-sin-t-tulo-20240617-211722-0000.png" group-title="⚽EUR⚽ 2024⚽",Evento:| 5 | EURO: 2024 1 ¡ZZ! VIX | EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412593
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank" tvg-logo="https://www.infobae.com/new-resizer/mz62ftdg7iqCpAFeDUIXs_Emq-c=/arc-anglerfish-arc2-prod-infobae/public/V6FOOG4NYRA2XDCCRRJBCOB3XY.jpg" group-title="24/7",24/7 NEGOCIANDO CON TIBURONES
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/560364
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 6 | EURO: 2024 2 ¡ZZ! VIX | EXCLUSIVO HD" tvg-logo="https://i.ibb.co/3yXygb4/Dise-o-sin-t-tulo-20240617-211722-0000.png" group-title="⚽EUR⚽ 2024⚽",Evento:| 6 | EURO: 2024 2 ¡ZZ! VIX | EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412594
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV  ES.PN 11:00 Na.p.ol.i vs Le.cc.e" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lqVT4ncI5yJ35hpGeMDrl6KBuiYnxEiWQkjEYjmt&s" group-title="⭐EVENTOS✰ESPECIALES⭐",EVENTO PPV  ES.PN 11:00 Na.p.ol.i vs Le.cc.e
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/204751
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 1 | Copa America 1 | EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 1 EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412558
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV ES.P.N 2 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lqVT4ncI5yJ35hpGeMDrl6KBuiYnxEiWQkjEYjmt&s" group-title="⭐EVENTOS✰ESPECIALES⭐",EVENTO PPV ES.P.N 2 
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/211296
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 2 | Copa America 2 | EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 2 EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412559
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV ES.PN 3 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lqVT4ncI5yJ35hpGeMDrl6KBuiYnxEiWQkjEYjmt&s" group-title="⭐EVENTOS✰ESPECIALES⭐",EVENTO PPV ES.PN 3 
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/218215
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 3 | Copa America 3 | EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 3 EXCLUSIVO HD (English)
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412560
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV ES.PN 5   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lqVT4ncI5yJ35hpGeMDrl6KBuiYnxEiWQkjEYjmt&s" group-title="⭐EVENTOS✰ESPECIALES⭐",EVENTO PPV ES.PN 5   
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/219881
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 4 | Copa America 4 | Directv EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 4 EXCLUSIVO HD (Directv)
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412520
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV LI.GA P.RO " tvg-logo="https://fanatiz-landing-page.s3.amazonaws.com/strapi/production/liga_pro_ecuadorian_24_64185fad3b.png" group-title="⭐EVENTOS✰ESPECIALES⭐",EVENTO PPV LI.GA P.RO 
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/221569
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 5 | Copa America 5 | Directv EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 5 EXCLUSIVO HD (TVMAX)
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412521
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV 6 D.T.V  14:00 S.ev.ill.a vs B.ar.c.elo.na" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lqVT4ncI5yJ35hpGeMDrl6KBuiYnxEiWQkjEYjmt&s" group-title="⭐EVENTOS✰ESPECIALES⭐",EVENTO PPV 6 D.T.V  14:00 S.ev.ill.a vs B.ar.c.elo.na
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/293853
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 6 | Copa America 6 | TUDN EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 6 EXCLUSIVO HD (M) (TUDN)
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412554
 
-#EXTINF:-1 tvg-id="ESPN2A2" tvg-name="DEP+| E.S.P.N 2 Latin A.meric.a (EXCLUSIVO)  " tvg-logo="https://static.epg.best/mx/Espn2.mx.png" group-title="⚜️DEP⚽RTES⚜️EXCLUSIVO(VIP)⚜️",DEP+| E.S.P.N 2 Latin A.meric.a (EXCLUSIVO)  
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/101270
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 7 | Copa America 7 | TUDN EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 7 EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412731
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="DEP+| E.S.P.N 3 Latin A.meric.a (EXCLUSIVO) UHD" tvg-logo="https://static.epg.best/mx/ESPN3.mx.png" group-title="⚜️DEP⚽RTES⚜️EXCLUSIVO(VIP)⚜️",DEP+| E.S.P.N 3 Latin A.meric.a (EXCLUSIVO) UHD
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/101271
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 8 | Copa America 8 | Directv 2 EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 8 EXCLUSIVO HD (e)(Directv 2)
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412555
 
-#EXTINF:-1 tvg-id="BEINCHD" tvg-name="DEP+| F.O.X - S.port.S 1 | Arg (EXCLUSIVO) UHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="⚜️DEP⚽RTES⚜️EXCLUSIVO(VIP)⚜️",DEP+| F.O.X - S.port.S 1 | Arg (EXCLUSIVO) UHD 
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/101279
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 9 | Copa America 9 | DirectvU EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 9 EXCLUSIVO HD (e)(DirectvU)
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412556
 
-#EXTINF:-1 tvg-id="BEINSES" tvg-name="DEP+| G.O.L - P.la.y Europa (EXCLUSIVO) UHD" tvg-logo="https://virgintelco.es/bundles/app/images/channels/gol_play_logo_200x200.png" group-title="⚜️DEP⚽RTES⚜️EXCLUSIVO(VIP)⚜️",DEP+| G.O.L - P.la.y Europa (EXCLUSIVO) UHD
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/101280
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 10 | Copa America 10 | TELEVEN EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 10 EXCLUSIVO HD (TELEVEN)
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412557
 
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="DEP+| .G.ol.f L.at..in | (EX.CLUSI.VO) U.HD" tvg-logo="https://seeklogo.com/images/G/golf-channel-latin-america-logo-B43427DD81-seeklogo.com.png" group-title="⚜️DEP⚽RTES⚜️EXCLUSIVO(VIP)⚜️",DEP+| .G.ol.f L.at..in | (EX.CLUSI.VO) U.HD
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/166174
-
-#EXTINF:-1 tvg-id="RMAD" tvg-name="DEP+| R.ea.l M.adr.id (EX.CLU.SI.VO) U.HD" tvg-logo="http://fanc.tmsimg.com/assets/s97484_h3_aa.png" group-title="⚜️DEP⚽RTES⚜️EXCLUSIVO(VIP)⚜️",DEP+| R.ea.l M.adr.id (EX.CLU.SI.VO) U.HD
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/95450
-
-#EXTINF:-1 tvg-id="AMTVHD" tvg-name="DEP+| T.Y.C Sp.ort.s Arg (EXCLUSIVO) UHD" tvg-logo="https://conax-msp-us-west-1.s3.us-west-1.amazonaws.com/public/wfm/fac3acb9-504f-47f2-aec1-afbcd8fa4178/925fc79b-55ea-4939-9412-6bde451c4d38.png" group-title="⚜️DEP⚽RTES⚜️EXCLUSIVO(VIP)⚜️",DEP+| T.Y.C Sp.ort.s Arg (EXCLUSIVO) UHD
-http://galaxypro.online:8080/IptVgaLA4563XI/TvPlusGa234xi1242/281120
+#EXTINF:-1 tvg-id="" tvg-name="Evento:| 11 | Copa America 11 | TELEVEN EXCLUSIVO HD" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fi0.wp.com%2Fnaciondeportes.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fportadas-nacion-2023-07-18t104558006.jpg%3Ffit%3D1000%252C600%26ssl%3D1" group-title="⚽GALA⚜️C⚽PA⚜️AMERICA⚜️",Evento: Copa America 11 EXCLUSIVO HD
+http://tv.proyectox.vip:8080/Jaime11CA/jvNCzrmGum/412732
 
 #EXTINF:-1 tvg-id="aztecaUno.mx HD" tvg-name="HD | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca Uno HD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
